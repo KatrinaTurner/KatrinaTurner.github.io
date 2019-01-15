@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src=".../images/mathBlasters.jpg">
+<img class="ui tiny left circular floated image" src="../images/mathBlasters.jpg">
 
 In Kindergarten I won a $500 prize at school.  Most kids would use it on toys or clothes, or their parents would put it into savings for them, but not me.  I wanted a CD-rom drive for our computer at home (it was 1994, they were still pretty new) and math computer games.  I'd like to say, "from then on the rest is history," but my path to Computer Science was not so straight forward.  
 
