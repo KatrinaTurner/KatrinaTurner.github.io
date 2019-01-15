@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Katrina H. Turner",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://KatrinaTurner.github.io/images/katrina2.jpeg",
+    "email": "khj@hawaii.edu",
+    "phone": "808-741-5289",
+    "website": "https://KatrinaTurner.github.io",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
+      "address": "1680 East West Road POST 303-2",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "KatrinaTurner",
+        "url": "http://github.com/KatrinaTurner"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/katrina-h-turner-a0417b174"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
@@ -61,12 +49,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -76,7 +60,6 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
         "TI LaunchPad"
       ]
     }
