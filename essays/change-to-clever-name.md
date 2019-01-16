@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/mathBlasters.jpg">
+<img src="../images/mathBlasters.jpg">
 
 In Kindergarten I won a $500 prize at school.  Most kids would use it on toys or clothes, or their parents would put it into savings for them, but not me.  I wanted a CD-rom drive for our computer at home (it was 1994, they were still pretty new) and math computer games.  I'd like to say, "from then on the rest is history," but my path to Computer Science was not so straight forward.  
 
@@ -22,3 +22,4 @@ Like many undergraduate Math majors, and much to my dismay, I found myself teach
 
 While in school, I hope to become a "well rounded computer scientist."  I want to improve my overall skills as a programmer and learn to work on large software projects in a team.  I want to learn about everything from Machine Learning to Networking to Operating Systems.  I hope to contribute to some Open-Source code and get a few internships that will help me gain experience to enter the workforce after I graduate.  I am so excited to be back in school, I just want to absorb as much as I can before embarking on the next chapter of my life. 
 
+<img class="ui tiny left circular floated image" src="../images/hello-world.jpg">
