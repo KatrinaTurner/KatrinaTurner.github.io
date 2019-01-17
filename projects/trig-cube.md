@@ -20,7 +20,7 @@ I did part of my student teaching in a Trigonometry class and was tasked with de
 
 ## How it works
 <img class="ui medium left rounded floated image" src="../images/trig-cube1.jpg">
-Students are given 24 squares with a Trig identity expression on each side of the square.  They must create a cube (4 squares on each face) such that the expression on each edge of a square must be equivalent to the expression on the edge of the square it is touching.  There are many different equivalent expressions for any given Trig identity, but only one combination that correctly makes the cube, that's where the logic comes in.
+Students are given 24 squares with a Trig expression (sin, cos, tan, etc.) on each side of the square.  They must create a cube (4 squares on each face) such that the expression on each edge of a square must be equivalent to the expression on the edge of the square it is touching.  There are many different equivalent expressions for any given Trig identity, but only one combination that correctly makes the cube, that's where the logic comes in.
 Students are encouraged to work in pairs and are given about 1-2 weeks to complete outside of class.
 When they have successfully created the cube, they are then encouraged to color and decorate it so it can be displayed in class.
 
