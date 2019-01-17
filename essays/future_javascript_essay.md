@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions, Good Answers
+title: Future Java Script Essay
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2019-01-18
 labels:
   - Questions
   - Answers
