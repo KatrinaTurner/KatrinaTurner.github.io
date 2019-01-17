@@ -5,9 +5,8 @@ title: Future Java Script Essay
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Javascript
+  - Reflection
 ---
 
 <img class="ui medium left floated image" src="">
