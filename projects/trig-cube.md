@@ -14,6 +14,7 @@ summary: A puzzle project I created for Trigonometry students.
 ---
 
 ## Premise
+<img class="ui small right rounded floated image" src="../images/trig-squares.png">
 I did part of my student teaching in a Trigonometry class and was tasked with designing a project for them.  Since I like puzzles, I thought it would be fun to create a puzzle cube to help them practice their Trig identities and of course, logic.
 
 
