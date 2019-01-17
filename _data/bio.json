@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Katrina H. Turner",
         "url": "http://linkedin.com/in/katrina-h-turner-a0417b174"
       }
     ]
@@ -57,8 +57,6 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
         "TI LaunchPad"
       ]
@@ -67,38 +65,57 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "M.S.",
+      "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
+        "Algorithms"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Secondary Education, Mathematics",
+      "studyType": "B.Ed.",
+      "startDate": "2007-08-01",
+      "endDate": "2011-12-20",
+      "gpa": "3.16",
+      "courses": [
+        "Linear Algebra",
+        "Discrete Math",
+        "Statistics",
+        "Euclidean/Non-Euclidean Geometry",
+        "Abstract Algebra"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa- Computer Science Department",
+      "position": "Graduate Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Teaching assistant undergraduate ICS courses",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Fall 2018: (141-Discrete Math) Run weekly recitations for students, hold office hours, grader",
+        "Spring 2019: (311-Algorithms) Assist students with class problems during lecture, office hours, grader"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawai'i Department of Education",
+      "position": "Math Teacher",
+      "website": "",
+      "startDate": "2012-01-01",
+      "endDate": "2018-07-31",
+      "summary": "Waialua High & Intermediate, Castle High School",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Subjects taught: Math 7, Algebra I, Modeling our World, Geometry, Algebra II, AP Statistics",
+        "Attending EdTechTeam GAFE Summit as Google Rep for school.",
+        "Taught Professional Development classes for teachers on Google Apps.",
+        "Attended training to incorporate programming into curriculum through Altino cars.",
+        "Technology pillar for school accreditation process."
       ]
     }
   ],
