@@ -28,5 +28,6 @@ One thing I enjoyed was getting to share my knowledge about Google Docs with tea
 In the end, our school passed with flying colors and I learned a lot about being a young leader.
 
 ## More info on Accreditation
-[WASC Accreditation Overview] (https://www.acswasc.org/wasc/acs-wasc-overview/)
-[Accreditation Process for Hawai'i Public Schools] (https://www.acswasc.org/schools/public-hawaii/)
+[WASC Accreditation Overview](https://www.acswasc.org/wasc/acs-wasc-overview/)
+
+[Accreditation Process for Hawai'i Public Schools](https://www.acswasc.org/schools/public-hawaii/)
