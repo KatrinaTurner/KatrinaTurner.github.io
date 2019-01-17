@@ -34,4 +34,3 @@ When they have successfully created the cube, they are then encouraged to color 
 This is one of the first projects I created myself from scratch and I really enjoyed it.  Based on student feedback, it definitely challenged them, but also helped them to learn their Trig identities better.
 
 [Trig Cube Project Instructions](/ "Project PDF")
-
