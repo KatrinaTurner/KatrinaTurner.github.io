@@ -20,7 +20,7 @@ By the time I was a sophomore in college, I realized that math was not as cut an
 
 Like many undergraduate Math majors, and much to my dismay, I found myself teaching high school math.  This brought on a whole new set of problems and definitely required a lot of creativity, but at the end of the day I never felt satisfied.  I have all the respect in the world for teachers, but for me, something was still missing.  I felt my brain muscles slowly becoming complacent as they were no longer required to do the same type of "heavy lifting" they did in college.  One summer, I took a class for teachers in programming Altino cars using Arduino boards and was instantly hooked.  I was already wanting to go back to school for my Master's Degree, so why not do it in Computer Science?  I realized that similarly to math, it was the perfect mix of puzzles and creativity for me.  So 24 years later, that little girl who wanted to spend all her money on the newest computer tech finally entered graduate school at the University of Hawai'i for Computer Science.
 
-<img class="ui medium left circular floated image" src="../images/hello-world.JPG">
+<img class="ui small left circular floated image" src="../images/hello-world.JPG">
 
 While in school, I hope to become a "well rounded computer scientist."  I want to improve my overall skills as a programmer and learn to work on large software projects in a team.  I want to learn about everything from Machine Learning to Networking to Operating Systems.  I hope to contribute to some Open-Source code and get a few internships that will help me gain experience to enter the workforce after I graduate.  I am so excited to be back in school, I just want to absorb as much as I can before embarking on the next chapter of my life. 
 
