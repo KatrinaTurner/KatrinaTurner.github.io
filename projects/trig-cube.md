@@ -23,7 +23,7 @@ Students are given 24 squares with a Trig identity expression on each side of th
 Students are encouraged to work in pairs and are given about 1-2 weeks to complete outside of class.
 When they have successfully created the cube, they are then encouraged to color and decorate it so it can be displayed in class.
 
-<div class="ui medium rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/trig-cube1.jpg">
   <img class="ui image" src="../images/trig-cube2.jpg">
   <img class="ui image" src="../images/trig-cube3.jpg">
