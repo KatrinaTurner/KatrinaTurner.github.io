@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/hexadecimal-sudoku.jpg
 title: Sudoku Solver
 permalink: projects/sudokusolver
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-01
+date: 2019-01-16
 labels:
   - Java
   - Sudoku
@@ -55,6 +55,8 @@ Once important tweak I made to speed up runtime was to first check all empty cel
 
 This was one of the more complicated pieces of code I wrote for this class, even though it is actually fairly simple.  I enjoyed having a little more freedom in the implementation than other projects in the class.  For example, adding the extra check in the code above to improve the runtime.  It required a decent amount of thought to get the logic just right and I enjoyed the challenge.
 
+
+For full code <src="../">
 
 
 
