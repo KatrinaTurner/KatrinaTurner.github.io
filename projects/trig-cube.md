@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/trig-cube1.jpg
 title: Trigonometry Puzzle Cube
 permalink: projects/trig-cube
 # All dates must be YYYY-MM-DD format!
@@ -24,10 +24,10 @@ Students are encouraged to work in pairs and are given about 1-2 weeks to comple
 When they have successfully created the cube, they are then encouraged to color and decorate it so it can be displayed in class.
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/eclipse-trig-cube1.jpg">
-  <img class="ui image" src="../images/eclipse-trig-cube2.jpg">
-  <img class="ui image" src="../images/eclipse-trig-cube3.jpg">
-  <img class="ui image" src="../images/eclipse-trig-cube1.jpg">
+  <img class="ui image" src="../images/trig-cube1.jpg">
+  <img class="ui image" src="../images/trig-cube2.jpg">
+  <img class="ui image" src="../images/trig-cube3.jpg">
+  <img class="ui image" src="../images/trig-cube1.jpg">
 </div>
 *Finished Trig cubes by students
 
