@@ -15,6 +15,10 @@ summary: Technology leader for my accreditation team at Castle High School.
 ## Overview
 Accreditation is a 2-3 year process that all schools must go through every 10 years or so to essentially make sure they are doing their job as a school.  While I was a teacher at Castle High School, the time came for us to go through this grueling process.  The entire faculty and staff were split into about 5 teams to work on each section of our accreditation write up and I was chosen to be the technology leader for one of the teams. 
 
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/wasc-b.png">
+</div>
+
 ## My Role and Responsibilities
 The accreditation process was obviously not a new thing for the school and some of the more seasoned teachers had been through many successful accreditations in their career.  However, this was the first time they did the entire process electronically instead of creating a giant binder hard copy.  Therefore, my knowledge of Google Drive and Google Apps are what got me appointed Tech Team Leader.
 My main responsibilities included leading meetings, formatting the document, training teachers on uploading & linking resources, and most importantly, maintaining the resource folders and making sure all the links worked.
