@@ -12,7 +12,7 @@ labels:
 summary: I wrote a recursive algorithm that can solve a sudoku puzzle.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/eclipse-sudoku.png">
 </div>
 
