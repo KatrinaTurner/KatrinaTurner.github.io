@@ -13,8 +13,7 @@ summary: I wrote a recursive algorithm that can solve a sudoku puzzle.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/">
-  <img class="ui image" src="../images/">
+  <img class="ui image" src="../images/eclipse-sudoku.png">
 </div>
 
 ## Overview
@@ -56,7 +55,8 @@ Once important tweak I made to speed up runtime was to first check all empty cel
 This was one of the more complicated pieces of code I wrote for this class, even though it is actually fairly simple.  I enjoyed having a little more freedom in the implementation than other projects in the class.  For example, adding the extra check in the code above to improve the runtime.  It required a decent amount of thought to get the logic just right and I enjoyed the challenge.
 
 
-For full code <src="../">
+[Link to Main Code](KatrinaTurner.github.io/SudokuSolver-Test.pdf "Sudoku Solver- Main PDF")
+
 
 
 
