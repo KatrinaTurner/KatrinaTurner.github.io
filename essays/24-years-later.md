@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: 24 years later...
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2019-01-14
 labels:
   - Software Engineering
   - Learning
