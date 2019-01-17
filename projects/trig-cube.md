@@ -10,7 +10,7 @@ labels:
   - Trigonometry
   - Education
   - Puzzles
-summary: A puzzle project I created for Trigonometry students.
+summary: A puzzle project I created for Trigonometry students to practice Trig identities.
 ---
 
 ## Premise
