@@ -18,12 +18,15 @@ I have officially finished my second week of Software Engineering and my head is
 
 ## Step 2: Javascript isn't Java???
 
-Javascript is officially the second programming language I am learning. Up until now I can really only claim proficiency in Java.  Much to my surprise, they are completely different languages, just with similar names.  I'm not sure why the creators did that, but it is quite confusing for the general public.  Luckily though, they have very similar syntax, which is making the learning process fairly smooth.
+Javascript is officially the second programming language I am learning. Up until now I can really only claim proficiency in Java.  Much to my surprise, they are completely different languages, just with similar names.  I'm not sure why the creators did that, but it is quite confusing for the general public.  Luckily though, they have very similar syntax, which is making the learning process fairly smooth.  One thing that is quite different from Java is the declaration of variables without specifying the type.  This is a bit strange for me and I haven't decided if I like it or not.  On the one hand, I enjoy the flexibility, but in the long run I'm not sure what the repercusions will be for having so much flexibility.
 
+```
+"Life begins at the end of your comfort zone.
+-Neale Donald Walsch
+
+```
 ## Step 3: Work that Brain
 So far Javascript seems to be a fairly intuitive language.
 
-```
-quotes
-```
+
 
