@@ -32,7 +32,7 @@ When they have successfully created the cube, they are then encouraged to color 
 *Finished Trig Cube Projects
 
 ## Reflection
-This is one of the first projects I created myself from scratch and I really enjoyed it.  Based on student feedback, it definitely challenged them, but also helped them to learn their Trig identities better.
+This is one of the first projects I created myself from scratch and I really enjoyed it.  Based on student feedback, it definitely challenged them, but also helped them to learn their Trig identities better.  My most important take away from this project was that good projects take a lot of time to create, but are worth it in the end because they are great learning experiences for the students.  Also, you can use them over and over again.  In fact, my dad is now a Trigonometry teacher and uses this project every year.
 
 [Trig Cube Project Rubric](../files/trig-cube-rubric.pdf "Project PDF")
 
