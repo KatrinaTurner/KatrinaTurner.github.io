@@ -26,7 +26,7 @@ Javascript is officially the second programming language I am learning. Up until
 I have always enjoyed giving my brain a good workout and I sincerely believe mental workouts can make you just as exhausted as physical one.  Dr. Johnson seems to have also embraced this principle with his brain workouts of the day or WODs.  I, for one, am very excited for these and hope they will provide ample practice for interviews in the future.  Our practice WODs so far seem to be a good gauge of the “real deal” in class, which is very helpful.  It is comforting to know where you stand at least a little bit before heading into class.  The bWOD from our TA, Brandon, was a bit more challenging than the other practices, but definitely creative and good practice.  After all, you don’t get stronger by only lifting light weights.
 
 ## To Sum It Up
-It’s going to be a fun semester.
+Bring it on!  It’s going to be a fun semester.
 
 
 
