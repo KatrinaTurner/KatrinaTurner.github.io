@@ -1,4 +1,4 @@
-/* ---
+---
 layout: essay
 type: essay
 title: There IS Such Thing As Stupid Questions
@@ -8,7 +8,7 @@ labels:
   - Learning
   - Questions
   - Stack Overflow
---- */
+--- 
 
 ## \"But Miss, I thought there was no such thing as stupid questions...\"
 
