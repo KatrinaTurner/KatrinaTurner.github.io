@@ -19,10 +19,10 @@ Going through Stack Overflow, I found a plethora of questions that according to 
 I can definitely see why Raymond says that people are less likely to help someone who posts questions like this.  Stack Overflow is not meant to be a personal tutor.
 
 ## \"I don't want to sound stupid...\"
-On the opposite side of the spectrum, I have found that this is the number one reason students (including myself) DON'T ask questions.  Articles like this, while perhaps a bit harsh, are potentially very helpful for these students as well.  Having confidence that your question is valid is a huge step towards knowing how to get the help you need.
+On the opposite side of the spectrum, I have found that this is the number one reason students (including myself) DON'T ask questions.  Articles like Raymond's, while perhaps a bit harsh, are potentially very helpful for these students as well.  Having confidence that your question is valid is a huge step towards knowing how to get the help you need.
 
 An example I found on Stack Overflow that seemed to fit Raymond's description of a good question was simply titled [403 Forbidden vs 401 Unauthorized HTTP responses.
-](https://stackoverflow.com/questions/3297048/403-forbidden-vs-401-unauthorized-http-responses/6937030#6937030)  I found this title very clear and easily searchable.  Aparently so did a lot of other people because it has been viewed 788,611 times in the last 8 years and has 2109 votes (as of 01-24-2019).  One person even says in the comments \"I don't remember how many times me and my colleagues have come back to stackoverflow for this question.\" The highest ranked answer is very thorough and a useful explanation for anyone with this question.
+](https://stackoverflow.com/questions/3297048/403-forbidden-vs-401-unauthorized-http-responses/6937030#6937030)  I found this title very clear and easily searchable.  Aparently so did a lot of other people because it has been viewed 788,611 times in the last 8 years and has 2109 votes (as of 01-24-2019).  One person even says in the comments \"I don't remember how many times me and my colleagues have come back to stackoverflow for this question.\" The highest ranked answer is very thorough and a useful explanation for anyone with this question.  This type of positive reinforcement for thoughtful, "smart" questions is both reassuring to people who have the same question and encouraging to people who are trying to formulate a new question.
 
 
 
