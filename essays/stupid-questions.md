@@ -28,7 +28,7 @@ Personally I really apprecite people who take the time to put an acurate title o
 
 ## The ongoing quest for optimal efficiency...
 <img class="ui small left rounded floated image" src="../images/stupid-question-challenge.jpg">
-After reading Raymond's article and reflecting on several questions I looked up on Stack, the main takeaway for me is **efficiency**.  In a world that moves as quickly as ours does today, nobody has time to try and sift through a poorly written question(except aparently Grad TAs).  As a Software Engineer, we should always try to do everything as efficient as possible, maximizing the amount of time we have to work on problems.  
+After reading Raymond's article and reflecting on several questions I looked up on Stack, the main takeaway for me is **efficiency**.  In a world that moves as quickly as ours does today, nobody has time to try and sift through poorly written questions(except aparently Grad TAs).  As a Software Engineer, we should always try to do everything as efficient as possible, maximizing the amount of time we have to work on problems.  
 Well written questions lead to quick and well written answers.  Efficient.  
 Clear subject titles mean other people can easily find your question and get an answer without having to re-ask the question.  Efficient.  
 There will always be those people out there who ask questions just because, but if the rest of us always asked clear, concise questions, it would be that much easier to weed the others out.  Efficient.
