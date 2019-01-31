@@ -15,7 +15,7 @@ labels:
 In Kindergarten I won a $500 prize at school.  Most kids would use it on toys or clothes, or their parents would put it into savings for them, but not me.  I wanted a CD-rom drive for our computer at home (it was 1994, they were still pretty new) and math computer games.  I'd like to say, "from then on the rest is history," but my path to Computer Science was not so straight forward.  
 
 ## Fast Forward
-I have always enjoyed puzzles.  My favorite classes in school were the ones that made me think.  I prefered critical thinking and creativity over brute force memorization by repitition.  I later came to realize the latter was, of course, a necessity, but children are stubborn and I was no exception. 
+I have always enjoyed puzzles.  My favorite classes in school were the ones that made me think.  I preferred critical thinking and creativity over brute force memorization by repetition.  I later came to realize the latter was, of course, a necessity, but children are stubborn and I was no exception. 
 By the time I was a sophomore in college, I realized that math was not as cut and dry as people made it seem.  In fact, it perfectly combined my love for puzzles and creativity.  Anyone who says math does not require creativity has never tried to solve a multi-page proof.  My general approach was to go forwards, backwards, and sometimes inside out until I could connect my "Given" statement to my final "Therefore."  But what to do with a degree in Math?
 
 <img class="ui medium right circular floated image" src="../images/welcomeToMath.jpg">
