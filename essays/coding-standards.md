@@ -27,6 +27,7 @@ In my opinion, coding standards are a necessary guideline for anyone who wants t
 
 ---
 ### Long Story Short
+
 The moral of the story is, if you hate your coding standards right now, ***stick it out.***  It’s worth it in the end.  For you and any other poor soul who has to read through your code in the future.  
 
 ---
