@@ -16,5 +16,6 @@ Have you ever tried to make sense of someone else's notes and just been complete
 
 ### Title 2
 
+<img class= "ui small rounded image float right" src='../images/math_neat2.jpg'>
 In my opinion, coding standards are a necessary guideline for anyone who wants to code more than a 20 line program.  The importance of having "neat" code is much more than just so it looks nice.  Messy code is basically equivalent to messy handwriting, or those students who completely ignore the lines on folder paper when they're writing.  Trying to read messy code, whether to debug it, or just to understand it is painful at best.  So why not avoid all that by using  
 
