@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards
+title: Why Coding Standards Aren't Only For the Anal Retentive
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-07
 labels:
@@ -12,9 +12,9 @@ labels:
 
 ### Title 1
 Have you ever tried to make sense of someone else's notes and just been completely lost?  Which of these would you rather read?
-<div class="ui rounded images">
-  <img class="ui medium image" src="../images/messy_writing.jpg">
-  <img class="ui small image" src="../images/neat_writing.jpg">
+<div class="ui rounded images" style="height: 100px">
+  <img class="ui image" src="../images/messy_writing.jpg">
+  <img class="ui image" src="../images/neat_writing.jpg">
 </div>
 I'm guessing you picked the one on the right.  When I taught Algebra 2, I was constantly looking over students notes and work to help them solve problems.  I noticed a significant difference in students who kept their work neat versus those who just scribbled numbers here and there on their paper.  First of all, when I asked a student to explain their thinking process to me, those who had a system for showing their work could easily walk me through, step by step, which made it easy for me to point out any errors to them.  Those who did NOT solve problems systematically would often get lost trying to explain their process to me and would have to start from scratch.  It made such a difference that I started requiring students to follow certain guidelines when solving equations.  You can look at coding in a similar light.  You are going through a logical series of steps to achieve your end goal.  So, it naturally follows that coders would also benefit from adhering to some type of standard for "showing their work" as well.
 
