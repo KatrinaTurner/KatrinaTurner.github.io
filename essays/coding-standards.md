@@ -29,5 +29,3 @@ The moral of the story is, if you hate your coding standards right now, ***stick
 
 
 \**If you think I feel strongly about this, wait till you hear what I have to say about commenting your code.* 😄
-
-<html> &#9786 </html>
