@@ -22,7 +22,7 @@ I'm guessing you picked the one on the right.  When I taught Algebra 2, I was co
 ---
 ### So get it together.
 
-<img class= "ui medium center rounded image" src='../images/messy-code-meme.png'>
+<img class= "ui large center rounded image" src='../images/messy-code-meme.png'>
 In my humble opinion, coding standards are a necessary guideline for anyone who wants to code more than a 20-line program.  The importance of having "neat" code goes far beyond just because it looks nice.  Messy code is basically equivalent to messy handwriting or completely ignoring the lines on folder paper when you’re writing.  Similarly, trying to read messy code, whether to debug it, or just to understand it is painful at best.  So why not avoid all that by adhering to some coding standards?  At first you may find it annoying, painful, or excessive.  You may ask yourself, “**WHY** is it necessary to have so many spaces?!”  But overtime, it will become second nature to do these things and you will reap the benefits.  When you’ve been staring at a screen for 6 hours straight, those *spaces* you hated so much are suddenly making it 10 times easier to read your code.  Those indentations make it easier to follow your logic from 2 days ago and those well-named variables are saving your life because you have no clue what you were thinking when you typed that code at 1am the night before.  And when, God forbid, you have to ask someone for help, they won’t disown you when they go through and try to make sense of your code.  All of the sudden, Checkstyle and ESLint go from pesky anal-retentive supervisors to welcome contributors with your best interests at heart.
 
 ---
