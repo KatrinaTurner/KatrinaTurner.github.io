@@ -10,6 +10,8 @@ labels:
   - ES Lint
 ---
 
+<html> &#9786 </html>
+
 ### No one likes a mess.
 
 Have you ever tried to make sense of someone else's notes and just been completely lost?  Which of these would you rather read?
