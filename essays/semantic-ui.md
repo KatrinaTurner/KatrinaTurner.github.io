@@ -24,12 +24,13 @@ labels:
 
 ---
 ### Can't I just buy it?
-Let's take it one step further and imagine you spent your whole life making everything from scratch, then one day you discover **Target**.  You discover that *other people* have done a lot of the work for you and you can just buy the things you need instead of making it all yourself.  Going back to the house analogy, now you can truly focus on decorating using all the resources you find at Target instead of making everything from scratch.  It takes a little while to get used to and at first I imagine it would be difficult to find things in the store, which may be a bit frustrating.  Finding the simplest things could end up taking a long time and you may start to get doubtful off if this was even the easier method.  However, in the long run, one you've figured out where everything is in the store, it is obviously the way to go.
-
+Let's take it one step further and imagine you spent your whole life making everything from scratch, then one day you discover **Target**.  You discover that *other people* have done a lot of the work for you and you can just buy the things you need instead of making it all yourself.  ***WHAT?!*** Going back to the house analogy, now you can truly focus on decorating using all the resources you find at Target instead of making everything from scratch.  It takes a little while to get used to and at first I imagine it would be difficult to find things in the store, which may be a bit frustrating.  Finding the simplest things could end up taking a long time and you may start to get doubtful off if this was even the easier method.  However, in the long run, one you've figured out where everything is in the store, it is obviously the way to go.
 
 ---
 ### But why Semantic UI?
-Now, you may be thinking, Ikea is *way better* than Target for home decor.  This is true, but I don't have access to an IKEA, I only have access to a Target, so that is where I will shop and I will love it.  I would also argue pros and cons to both.  IKEA has more options, but there is usually quite a bit of assembling still required, where as Target has less options, but assembly required is minimal to none.
-Just like Semantic UI is the only UI framework I've worked with so of course I love it now, but who knows what other frameworks I will discover and fall in love with on my CS journey.
+Now, you may be thinking, Ikea is *way better* than Target for home decor.  This is true, but I don't have access to an IKEA, I only have access to a Target, so that is where I will shop and I will love it.  I would also argue pros and cons to both.  IKEA has more options, but there is usually quite a bit of assembling still required, where as Target has less options, but assembly required is minimal to none.  Just like Semantic UI is the only UI framework I've worked with so of course I love it now, but who knows what other frameworks I will discover and fall in love with on my CS journey.
 
+---
+### At the end of the day...
+In summary, Myspace and my professor made me go through a lot of pain and suffering coding in strictly HTML & CSS, but in the end all is well, because now I have found Target... I mean UI Frameworks.  Since Myspace is no longer relevant, there is a pretty high probability I will instead use my new skills to pimp out my professional portfolio.  Stay tuned.
 
