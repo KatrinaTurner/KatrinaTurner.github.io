@@ -32,11 +32,3 @@ Now, you may be thinking, Ikea is *way better* than Target for home decor.  This
 Just like Semantic UI is the only UI framework I've worked with so of course I love it now, but who knows what other frameworks I will discover and fall in love with on my CS journey.
 
 
-
-
-
-<div class="ui rounded images">
-  <img class="ui image" src="https://jonathanmng.github.io/images/essays/semanticsui.jpg" style="height: 200px"> 
-  
-  <img class="ui image" src="https://mercedezcastro.github.io/images/myspace.jpg" style="height: 200px">
-</div>
