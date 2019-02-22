@@ -12,14 +12,15 @@ labels:
 ---
 
 ### Something clever
-<img class="ui right floated small image" src="https://mercedezcastro.github.io/images/myspace.jpg">
+<img class="ui right floated medium image" src="https://mercedezcastro.github.io/images/myspace.jpg">
   Early 2000s, myspace, html.... blah blah...
   My only prior knowledge on HTML and CSS was styling my Myspace page over a decade ago.  Needless to say, I was dreading the unit on HTML in my software engineering class.  However, it turned out to not be so terrible, mainly thanks to Semantic UI.  My views will be a bit biased because I haven't used bootstrap, or any other fancy UI frameworks, but I am a **FAN!**  It's obviously not perfect, and I will point on some of my frustrations with it, but overall, it just makes life easier, so why wouldn't you love it?
 
 ---
 ### Without UI Framework
-
-
+  For those of you who don't know about UI Frameworks, imagine trying to furnish a house... from scratch.  You have to build the furniture & appliances, mix the paint yourself, sew the curtains, etc.  This may seem unnecessary to you.  I mean, that's why we have stores where we can buy all of these things premade.  This is what it is like to program *without* a UI framework.
+  
+<img class="ui image" src="https://jonathanmng.github.io/images/essays/semanticsui.jpg" style="height: 200px"> 
 ---
 ### Add Semantic UI
 
