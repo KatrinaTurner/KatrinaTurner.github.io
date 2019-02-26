@@ -24,4 +24,3 @@ rouge-theme: igorpro
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
-
