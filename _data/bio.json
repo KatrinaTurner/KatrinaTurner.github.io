@@ -60,8 +60,8 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Git/GitHub",
-        "TI LaunchPad"
+        "GitHub",
+        "Jupyter Notebook"
       ]
     }
   ],
