@@ -51,6 +51,9 @@
       "keywords": [
         "Java",
         "Javascript"
+        "Python"
+        "HTML/CSS"
+        "React"
       ]
     },
     {
@@ -71,7 +74,10 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": [
-        "Algorithms"
+        "Algorithms",
+        "Data Science",
+        "Software Engineering",
+        "Machine Learning"
       ]
     },
     {
