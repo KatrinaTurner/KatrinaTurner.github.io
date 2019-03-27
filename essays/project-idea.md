@@ -18,6 +18,7 @@ labels:
 * Main Search Page
 * Interest Group Pages
 * Add Group/Event Page
+* Edit Event Page
 * Admin Control Page
 
 <h4>Main Search Page</h4>
@@ -41,5 +42,6 @@ Landing page --> log in --> Admin Control Page to edit site
 <h2>Beyond the basics</h2>
 * Students could also leave "Reviews" of past experiences with tips for future adventurers wanting to repeat that event.
 * Allow companies who maybe want to offer group rates or student specials to UHM students to add event ideas.  They would have a different login, or would email admin directly.
+* Login using UH CAS to guarantee that all users are UH students.
 
 
