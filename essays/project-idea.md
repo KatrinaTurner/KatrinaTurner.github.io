@@ -27,7 +27,7 @@ labels:
 <p>These pages would have more details about upcoming events for that particular interest.  For example, a hiking interest group would have information on upcoming hikes around the island.  Here students could organize a time and place to meet up and maybe even transportation options like carpooling, or sharing an Uber.</p>
 
 <h4>Group/Event Creation Page</h4>
-<p>Here users could propose new interest groups or activities to be approved by an admin.</p>
+<p>Here users could propose new interest groups or activities to be approved by an admin.  New events simply get added to interest group pages, but new Interest Groups would require admin to make a new page for that group.</p>
 
 <h2>Use case ideas</h2>
 <h5>New user:</h5> 
