@@ -9,7 +9,6 @@ labels:
   - Ethics
 ---
 
-## To FB or not to FB...
 <img class="ui small left rounded floated image" src="../images/to-be-or-not.jpg">
 
 <p>
