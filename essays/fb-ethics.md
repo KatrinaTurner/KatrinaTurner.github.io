@@ -44,6 +44,8 @@ It is probably quite obvious by now that Facebook leaders made some very unethic
 <p>
 But that is not what I am going to discuss here.  Instead, I'd like to look at it from a different, possibly more interesting, point of view.  I would like to instead explore how we have an ethical responsibility to continue to support Facebook.
 </p>
+
+## Do you believe in second chances?
 <p>
 While it is definitely true that Facebook was unsucessful in avoiding harm, the second half of that principle is that if you do commit harm, FIX it.  We need to give Facebook the chance to fix the harm they've caused to the best of their ability.  This also ties into the ACM Code of Ethics Principle 3.7
 </p>
@@ -53,13 +55,14 @@ Like it or not, Facebook has indeed become integrated into our society.  It woul
 </p>
 <img class="ui small left rounded floated image" src="../images/mz-fake-news.jpg">
 <p>
-Many people criticize people Facebook for allowing themselves to be hacked, but the reality of the situation is that no one WANTS to be hacked.  Could they have taken more preventative measures, probably.  But that's in the past.  The issue now is trying to make advancements in their cyber-security to keep out these hackers.  It's true that other sites may not get hacked as often, but it's not so black and white.  Facebook is a huge target for some of the best hackers in the world.  They have to deal with things that smaller companies probably haven't even contemplated.  If we get rid of Facebook just because they got hacked, the hackers won't go away, they will simply move on to another target and we are in the 
+Many people criticize people Facebook for allowing themselves to be hacked, but the reality of the situation is that no one WANTS to be hacked.  Could they have taken more preventative measures, probably.  But that's in the past.  The issue now is trying to make the necessary advancements in cyber-security to keep out these hackers.  It's true that other sites may not get hacked as often, but it's not necessarily because they're better.  Facebook is a huge target for some of the best hackers in the world.  They have to deal with things that smaller companies probably haven't even contemplated.  If we get rid of Facebook just because they got hacked, the hackers won't go away. They will simply move on to another target and that new target will have to deal with these issues.  Instead, I propose that we be proactive and push Facebook to come up with innovative solutions to combat hacking.  This will hopefully compell other companies to do the same, which will be good for technology as a whole.  In fact, you could also say it would be in the best interest of public. 
 </p>
 
 
 ## So what should I do?
 
-
-<img class="ui small left rounded floated image" src="../images/mz-fake-news.jpg">
+<p>
+Ultimately, the decision is yours to make.  Look at the facts, consider both sides of the situation and make a decision that feels ethically correct to YOU.  Because at the end of the day, you have to live with yourself.  Personally, I will be keeping my account because for me, the pros outweigh the cons. I will in turn try to be a responsible consumer by being cautious with my personal data and always reading things with a grain of salt.
+</p>
 
 
