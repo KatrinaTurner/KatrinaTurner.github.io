@@ -29,7 +29,6 @@ However, one of things that sets the SE code apart from "daily life ethics" is t
 <p>
 Software Engineers should actively be evaluating the consequences of their code, both immediate and future.  
 </p>
-<img class="ui small right rounded floated image" src="../images/abe-lincoln-internet.jpeg">
 <p>
 The second biggest responsibility of a Software Engineer, in my opinion, is to educate their users about their technology.  It is important that the consumer understands both the capabilities and limitations of the software so they can make educated decisions when using the software.  Educating the general public was really important to our founding fathers and this part of the SE ethics code really helps to support and embody that notion.
 </p>
@@ -60,7 +59,7 @@ Many people criticize people Facebook for allowing themselves to be hacked, but 
 
 
 ## So what should I do?
-
+<img class="ui medium right rounded floated image" src="../images/abe-lincoln-internet.jpeg">
 <p>
 Ultimately, the decision is yours to make.  Look at the facts, consider both sides of the situation and make a decision that feels ethically correct to YOU.  Because at the end of the day, you have to live with yourself.  Personally, I will be keeping my account because for me, the pros outweigh the cons. I will in turn try to be a responsible consumer by being cautious with my personal data and always reading things with a grain of salt.
 </p>
