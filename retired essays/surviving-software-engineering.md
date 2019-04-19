@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+
 title: Surviving Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-18
