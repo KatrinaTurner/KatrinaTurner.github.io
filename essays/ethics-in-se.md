@@ -17,7 +17,6 @@ That is the question many Facebook users have been asking themselves since the R
 </p> 
 
 ## What does Ethics in Software Engineering mean? 
-<img class="ui medium right circular floated image" src="../images/welcomeToMath.jpg">
 
 <p>
 Ethics in Software Engineering(SE) is really not far from ethics in other areas of life.  One of the main concepts that drives the SE ethical code is to do things for the good of the public.  Another is to "avoid harm."  These seem rather obvious and one would hope that most people try to live by these in their daily lives.
@@ -31,10 +30,12 @@ One of thing that sets the SE code apart from daily life is that it puts a lot o
 
 ## How does this relate to the Facebook scandal?
 
-<img class="ui small left circular floated image" src="../images/hello-world.JPG">
+<img class="ui small left circular floated image" src="../images/no-fb.jpg">
+
+<img class="ui small right circular floated image" src="../images/abe-lincoln-internet.jpeg">
 
 ## So what should I do?
 
-<img class="ui small left circular floated image" src="../images/hello-world.JPG">
+<img class="ui small left rounded floated image" src="../images/mz-fake-news.jpg">
 
 
