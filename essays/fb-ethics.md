@@ -29,6 +29,7 @@ However, one of things that sets the SE code apart from "daily life ethics" is t
 <p>
 Software Engineers should actively be evaluating the consequences of their code, both immediate and future.  
 </p>
+<img class="ui small right rounded floated image" src="../images/abe-lincoln-internet.jpeg">
 <p>
 The second biggest responsibility of a Software Engineer, in my opinion, is to educate their users about their technology.  It is important that the consumer understands both the capabilities and limitations of the software so they can make educated decisions when using the software.  Educating the general public was really important to our founding fathers and this part of the SE ethics code really helps to support and embody that notion.
 </p>
@@ -37,11 +38,27 @@ The second biggest responsibility of a Software Engineer, in my opinion, is to e
 ## How does this relate to the Facebook scandal?
 
 <img class="ui small left circular floated image" src="../images/no-fb.jpg">
-
+<p>
+It is probably quite obvious by now that Facebook leaders made some very unethical decisions when it came to the scandal with the Russian fake news and selling their user's data.  1) They did not act in the best interest of the public. 2) They caused harm. 3) They did not properly educate people about their product.  It is very easy to point fingers and find fault in the things they did.  It is also not difficult to make a compelling case for you to delete your Facebook account.  After all, who would want to support such monsters?  
+</p>
+<p>
+But that is not what I am going to discuss here.  Instead, I'd like to look at it from a different, possibly more interesting, point of view.  I would like to instead explore how we have an ethical responsibility to continue to support Facebook.
+</p>
+<p>
+While it is definitely true that Facebook was unsucessful in avoiding harm, the second half of that principle is that if you do commit harm, FIX it.  We need to give Facebook the chance to fix the harm they've caused to the best of their ability.  This also ties into the ACM Code of Ethics Principle 3.7
+</p>
+> > "Recognize and take special care of systems that become integrated into the infrastructure of society."
+<p>
+Like it or not, Facebook has indeed become integrated into our society.  It would not be right to just throw something as huge as this away the second it breaks.  We should also consider that there is a huge team of people who make up Facebook, not just the leaders who made all those terrible decisions.  That team of people created something amazing.  We should honor their efforts by giving them a chance to continue working on their creation to make it fit ethical standards.
+</p>
+<img class="ui small left rounded floated image" src="../images/mz-fake-news.jpg">
+<p>
+Many people criticize people Facebook for allowing themselves to be hacked, but the reality of the situation is that no one WANTS to be hacked.  Could they have taken more preventative measures, probably.  But that's in the past.  The issue now is trying to make advancements in their cyber-security to keep out these hackers.  It's true that other sites may not get hacked as often, but it's not so black and white.  Facebook is a huge target for some of the best hackers in the world.  They have to deal with things that smaller companies probably haven't even contemplated.  If we get rid of Facebook just because they got hacked, the hackers won't go away, they will simply move on to another target and we are in the 
+</p>
 
 
 ## So what should I do?
-<img class="ui small right rounded floated image" src="../images/abe-lincoln-internet.jpeg">
+
 
 <img class="ui small left rounded floated image" src="../images/mz-fake-news.jpg">
 
