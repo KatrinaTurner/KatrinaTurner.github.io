@@ -26,7 +26,7 @@ However, one of things that sets the SE code apart from "daily life ethics" is t
 > "That was my prize mistake. A failure of imagination."
 > > --Olenna Tyrell
 <p>
-Software Engineers should actively be evaluating the consequences of their code, both immediate and future.  
+Software Engineers should continuously be evaluating the consequences of their code, both immediate and future to make sure they don't inadvertently cause harm (or create a Terminator).
 </p>
 <p>
 The second biggest responsibility of a Software Engineer, in my opinion, is to educate their users about their technology.  It is important that the consumer understands both the capabilities and limitations of the software so they can make educated decisions when using the software.  Educating the general public was really important to our founding fathers and this part of the SE ethics code really helps to support and embody that notion.
