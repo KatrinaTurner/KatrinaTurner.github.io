@@ -3,10 +3,10 @@ layout: essay
 type: essay
 title: To FB or not to FB...
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-14
+date: 2019-04-18
 labels:
   - Software Engineering
-  - Learning
+  - Ethics
 ---
 
 ## To FB or not to FB...
@@ -22,19 +22,23 @@ That is the question many Facebook users have been asking themselves since the R
 Ethics in Software Engineering(SE) is really not far from ethics in other areas of life.  One of the main concepts that drives the SE ethical code is to do things for the good of the public.  Another is to "avoid harm."  These seem rather obvious and one would hope that most people try to live by these in their daily lives.
 </p>
 <p>
-One of thing that sets the SE code apart from daily life is that it puts a lot of responsibility on Software Engineers and Computer Scientists to not be bystanders.  It is not enough to avoid the immediate harm you can see, you need to look further down the road and **imagine** all the possibilities and scenarios where harm could occur and do your best to avoid those as well.  
+One of thing that sets the SE code apart from daily life is that it puts a lot of responsibility on Software Engineers and Computer Scientists to not be bystanders.  It is not enough to avoid the immediate harm you can see, you need to look further down the road and <b>imagine</b> all the possibilities and scenarios where harm could occur and do your best to avoid those as well.  
 </p>
 > "That was my prize mistake. A failure of imagination."
 > > --Olenna Tyrell
+<p>
+
+</p>
 
 
 ## How does this relate to the Facebook scandal?
 
 <img class="ui small left circular floated image" src="../images/no-fb.jpg">
 
-<img class="ui small right circular floated image" src="../images/abe-lincoln-internet.jpeg">
+
 
 ## So what should I do?
+<img class="ui small right rounded floated image" src="../images/abe-lincoln-internet.jpeg">
 
 <img class="ui small left rounded floated image" src="../images/mz-fake-news.jpg">
 
