@@ -35,7 +35,7 @@ The second biggest responsibility of a Software Engineer, in my opinion, is to e
 
 ## How does this relate to the Facebook scandal?
 
-<img class="ui small left circular floated image" src="../images/no-fb.jpg">
+<img class="ui small right circular floated image" src="../images/no-fb.jpg">
 <p>
 It is probably quite obvious by now that Facebook leaders made some very unethical decisions when it came to the scandal with the Russian fake news and selling their user's data.  1) They did not act in the best interest of the public. 2) They caused harm. 3) They did not properly educate people about their product.  It is very easy to point fingers and find fault in the things they did.  It is also not difficult to make a compelling case for you to delete your Facebook account.  After all, who would want to support such monsters?  
 </p>
