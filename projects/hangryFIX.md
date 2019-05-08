@@ -17,7 +17,7 @@ summary: For my final project for Software Engineering, I worked with a team to 
 
 
 ## Overview
- <img class="ui medium left floated image" src="../images/hf-landing.png">
+ <img class="ui medium right floated image" src="../images/hf-landing.png">
 As the final project for Software Engineering, we were tasked to create a Web App that would benefit our campus(UH Manoa) in some way.  We chose to create an app called hangryFIX that is similar to Yelp, but is focused on the actual food items, rather than restaurants since that is generally more important when you are really hungry.  I worked on a team of 3 and we used GitHub to manage and code our project.  The app itself is a Meteor app and we used React Semantic UI as a tool to write it.
 
 ## My Responsibilities
@@ -46,7 +46,7 @@ By the end of the project I think I definitely grew a lot stronger as a develope
 
 ## Want to know more?
 
-<img class="ui medium right floated image" src="../images/hf-landing2.png">
+<img class="ui medium left floated image" src="../images/hf-landing2.png">
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to Deployed App</button></a>
 <br>
 <br>
