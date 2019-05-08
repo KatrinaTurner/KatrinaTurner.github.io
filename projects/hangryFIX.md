@@ -40,14 +40,16 @@ Overall, this is probably one of the better experiences I've had working on a te
 
 The thing that took us the most getting used to was to actually use the project boards on GitHub.  But in the end it became more natural and actually ended up saving us a great deal of time because I could easily locate a previous branch I needed to pull code from at the last minute.
 
-<img class="ui medium right floated image" src="../images/hf-landing2.png">
+
 By the end of the project I think I definitely grew a lot stronger as a developer through lots of trial and error with different React elements.  I was thrilled with the positive feedback we got from our user testing and I am excited to try out my new skills in the months/years to come.
 
 
 ## Want to know more?
 
-<div>
+<img class="ui medium right floated image" src="../images/hf-landing2.png">
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to Deployed App</button></a>
+<br>
 <a href="https://hangryfix.github.io/"><button>GitHub Project Page</button></a>
+<br>
 <a href="https://github.com/hangryfix/hangryfix"><button>Source Code</button></a>
-</div>
+
