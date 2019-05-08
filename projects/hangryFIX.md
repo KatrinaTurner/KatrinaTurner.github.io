@@ -49,10 +49,8 @@ By the end of the project I think I definitely grew a lot stronger as a develope
 <img class="ui medium left floated image" src="../images/hf-landing2.png">
 <a href="http://hangryfix.meteorapp.com/#/"><button>Go to Deployed App</button></a>
 <br>
-<br>
 
 <a href="https://hangryfix.github.io/"><button>GitHub Project Page</button></a>
-<br>
 <br>
 
 <a href="https://github.com/hangryfix/hangryfix"><button>Source Code</button></a>
