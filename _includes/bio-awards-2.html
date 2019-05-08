@@ -19,9 +19,9 @@
   <div class="sixteen wide column no-bottom">
     {% for entry in site.data.bio.awards %}
       {% if entry.type == "grant" %}
-        <p class="ui no-bottom">
+        <h4 class="ui no-bottom">
           <b>{{ entry.title }}</b>, {{ entry.awarder }}{% if entry.date %}, {{ entry.date }}{% endif %}
-        </p>
+        </h4>
         <p class="ui">{{ entry.summary }}</p>
       {% endif %}
     {% endfor %}
