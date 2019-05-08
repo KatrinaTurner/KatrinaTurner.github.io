@@ -29,9 +29,11 @@ The Landing page was the most fun to create because that is the first thing peop
 
 The Admin page was the most interesting to create because I had to think about what types of things a site admin might want to access.  I had to dynamically pull data from almost all our collections and put them into something worthwhile.  This was also the most challenging to add functionality to, but definitely taught me a lot about filtering and props.
 
+<div class="ui medium images">
+  <<img class="ui image" src="../images/hf-admin.png">
+   <img class="ui image" src="../images/hf-admin2a.png">
+</div>
 
-<img class="ui medium image" src="../images/hf-admin.png">
-<img class="ui medium image" src="../images/hf-admin2a.png">
 *Admin page displaying all foods added to site as well as foods added by each user.*
 
 
