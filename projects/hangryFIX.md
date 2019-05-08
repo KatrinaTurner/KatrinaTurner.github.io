@@ -1,8 +1,8 @@
 ---
 layout: project
-type: draft
+type: project
 image: images/hangryfix-logo.jpg
-title: Sudoku Solver
+title: hangryFIX
 permalink: projects/hangryFIX
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-05
@@ -12,46 +12,29 @@ labels:
   - Meteor
   - Software Engineering
   - Web App
-summary: For my final project for Software Engineering, I worked with a team to develop a Web App that would help aleviate hangriness on UH Manoa's campus.
+summary: For my final project for Software Engineering, I worked with a team to develop a Web App that would help alleviate hangriness on UH Manoa's campus.
 ---
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/eclipse-sudoku.png">
+<div class="ui medium images">
+  <img class="ui image" src="../images/hf-landing.png">
 </div>
 
 ## Overview
 
-In ICS 211 (Intro to Computer Science II) we were charged with coming up with a recursive Hexadecimal sudoku solver algorithm.  This is definitely not the most efficient algorithm as it had an exponential runtime, but the exercise was in recursion.  Regular Sudoku is a 9 x 9 square puzzle where every row, column, and inner 3x3 square must contain the values 1-9 exactly once.  It starts out partially filled and the player uses logic to fill the remaining squares.  Hexadecimal sudoku also adds in the letters A-F, making it a 16 x 16 puzzle with 4 x 4 inner squares.
+As the final project for Software Engineering, we were tasked to create a Web App that would benefit our campus(UH Manoa) in some way.  We chose to create an app called hangryFIX that is similar to Yelp, but is focused on the actual food items, rather than restaurants since that is generally more important when you are really hungry.  I worked on a team of 3 and we used GitHub to manage and code our project.  The app itself is a Meteor app and we used React Semantic UI as a tool to write it.
 
-## The Algorithm
+## My Responsibilities
 
-The algorithm I created started at the first empty cell and checked what values were still legal by eliminating the values already filled in it's column, row, and 4 x 4 square.  
-Next, it filled that empty cell with the first available legal value, then continued to the next empty cell.
-If the algorithm reached a cell that had no legal values, that meant one of the former values was incorrect, so it backtracked to the most recently filled cell and tried the next legal value instead.
-It continued to do this until all the cells were filled, then it would return the completed puzzle.  Or, if it exhausted all possible values and did not come up with a solution, it would return "Not Solvable."
+<img class="ui medium right floated image" src="../images/hf-landing2.png">
+My main contributions to the project were the Landing, Sign-up, and Admin pages, as well as user testing once we were close to completion.
 
-Once important tweak I made to speed up runtime was to first check all empty cells and choose the one with the LEAST valid values and fill that one first.  It repeated this everytime it chose a cell to fill.  This check is a small price to pay compared to the overall runtime and greatly reduces the amount of backtracking required by the algorithms, therefore speeding up the overall time.
+The Landing page was the most fun to create because that is the first thing people see when they visit our site.  We decided upon the general layout as a group, but I got to implement everything, choose the pictures, create the write ups, etc.
 
-## Sample Code
+The Admin page was the most interesting to create because I had to think about what types of things a site admin might want to access.  I had to dynamically pull data from almost all our collections and put them into something worthwhile.  This was also the most challenging to add functionality to, but definitely taught me a lot about filtering and props.
 
-```js
- // check for cell with least legal values
-    int minrow = 0;
-    int mincol = 0;
-    int min = 16;
+<img class="ui fluid image" src="../images/hf-admin.png">
+*Admin page displaying all foods added to site.*
 
-    for (int m = 0; m < sudoku.length; m++) {
-      for (int n = 0; n < sudoku[m].length; n++) {
-        if (sudoku[m][n] == -1) {
-          if (legalValues(sudoku, m, n).size() < min) {
-            min = legalValues(sudoku, m, n).size();
-            minrow = m;
-            mincol = n;
-          }
-        }
-      }
-    }
-```
 
 ## Reflection
 
