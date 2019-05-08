@@ -18,7 +18,7 @@
       Card
 ---------------*/
 
-/*.ui.cards > .card,*/
+.ui.cards > .card,
 .ui.card {
   max-width: 100%;
   position: relative;
