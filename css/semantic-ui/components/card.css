@@ -31,7 +31,7 @@
           flex-direction: column;
   width: 290px;
   min-height: 0px;
-  background: transparent;
+  background: transparent; !important;
   padding: 0em;
   border: none;
   border-radius: 0.28571429rem;
@@ -122,7 +122,7 @@
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
   padding: 0em;
-  background: transparent; !important;
+  background: transparent;
 }
 .ui.cards > .card > .image > img,
 .ui.card > .image > img {
