@@ -22,7 +22,6 @@ As the final project for Software Engineering, we were tasked to create a Web Ap
 
 ## My Responsibilities
 
-<img class="ui medium right floated image" src="../images/hf-landing2.png">
 My main contributions to the project were the Landing, Sign-up, and Admin pages, as well as user testing once we were close to completion.
 
 The Landing page was the most fun to create because that is the first thing people see when they visit our site.  We decided upon the general layout as a group, but I got to implement everything, choose the pictures, create the write ups, etc.
@@ -41,6 +40,7 @@ Overall, this is probably one of the better experiences I've had working on a te
 
 The thing that took us the most getting used to was to actually use the project boards on GitHub.  But in the end it became more natural and actually ended up saving us a great deal of time because I could easily locate a previous branch I needed to pull code from at the last minute.
 
+<img class="ui medium right floated image" src="../images/hf-landing2.png">
 By the end of the project I think I definitely grew a lot stronger as a developer through lots of trial and error with different React elements.  I was thrilled with the positive feedback we got from our user testing and I am excited to try out my new skills in the months/years to come.
 
 
