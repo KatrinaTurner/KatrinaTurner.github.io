@@ -571,13 +571,13 @@ a.ui.card:hover,
 
 /* Dark Teal */
 .ui.darkteal.cards > .card,
-.ui.cards > .teal.card,
-.ui.teal.card {
+.ui.cards > .darkteal.card,
+.ui.darkteal.card {
   box-shadow: 0px 0px 0px 2px #747575, 0px 4px 0px 0px #1c6f75, 0px 2px 6px 0px #747575;
 }
 .ui.darkteal.cards > .card:hover,
-.ui.cards > .teal.card:hover,
-.ui.teal.card:hover {
+.ui.cards > .darkteal.card:hover,
+.ui.darkteal.card:hover {
   box-shadow: 0px 0px 0px 2px #D4D4D5, 0px 8px 0px 0px #1c6f75, 0px 2px 10px 0px #BCBDBD;
 }
 
