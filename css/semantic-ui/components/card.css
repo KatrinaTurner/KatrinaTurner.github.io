@@ -578,7 +578,7 @@ a.ui.card:hover,
 .ui.darkteal.cards > .card:hover,
 .ui.cards > .teal.card:hover,
 .ui.teal.card:hover {
-  box-shadow: 0px 0px 0px 2px #D4D4D5, 0px 4px 0px 0px #1c6f75, 0px 2px 6px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 2px #D4D4D5, 0px 8px 0px 0px #1c6f75, 0px 2px 10px 0px #BCBDBD;
 }
 
 /* Blue */
