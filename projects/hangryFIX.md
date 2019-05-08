@@ -38,11 +38,9 @@ The Admin page was the most interesting to create because I had to think about w
 
 ## Reflection
 
-This was one of the more complicated pieces of code I wrote for this class, even though it is actually fairly simple.  I enjoyed having a little more freedom in the implementation than other projects in the class.  For example, adding the extra check in the code above to improve the runtime.  It required a decent amount of thought to get the logic just right and I enjoyed the challenge.  An important lesson I learned during this project was that sometimes you just need to walk away from your code for a little while to get some perspective.  And consequently, always start early so you have time to walk away.
 
-
-[Link to Main Code](../files/SudokuSolver-main.pdf "Sudoku Solver- Main PDF")
-
-
-
-
+<div>
+<a href="http://hangryfix.meteorapp.com/#/"><button>Go to Deployed App</button></a>
+<a href="https://hangryfix.github.io/"><button>GitHub Project Page</button></a>
+<a href="https://github.com/hangryfix/hangryfix"><button>Source Code</button></a>
+</div>

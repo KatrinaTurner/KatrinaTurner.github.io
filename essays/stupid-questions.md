@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: There IS Such Thing As Stupid Questions
 date: 2019-01-25
 labels:
