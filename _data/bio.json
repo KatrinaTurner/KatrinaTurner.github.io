@@ -98,11 +98,22 @@
   ],
   "work": [
     {
+      "company": "UH Manoa- Laboratory for Advanced Visualization and Applications (LAVA)",
+      "position": "Graduate Research Assistant",
+      "website": "http://lava.manoa.hawaii.edu/",
+      "startDate": "2019-06-01",
+      "endDate": "Present",
+      "summary": "Data Science and Visualization",
+      "highlights": [
+        "Current Project: NetSage (Visualizing network flow data)"
+      ]
+    },
+    {
       "company": "UH Manoa- Computer Science Department",
       "position": "Graduate Teaching Assistant",
       "website": "",
       "startDate": "2018-08-01",
-      "endDate": "Present",
+      "endDate": "2019-05-30",
       "summary": "Teaching assistant undergraduate ICS courses",
       "highlights": [
         "Fall 2018: (141-Discrete Math) Run weekly recitations for students, hold office hours, grader",
