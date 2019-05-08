@@ -122,7 +122,7 @@
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
   padding: 0em;
-  background: rgba(0, 0, 0, 0.05);
+  background: transparent;
 }
 .ui.cards > .card > .image > img,
 .ui.card > .image > img {
@@ -147,7 +147,7 @@
           flex-grow: 1;
   border: none;
   border-top: 1px solid rgba(34, 36, 38, 0.1);
-  background: none;
+  background: transparent;
   margin: 0em;
   padding: 1em 1em;
   box-shadow: none;
@@ -400,7 +400,7 @@
           flex-grow: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.05) !important;
   position: static;
-  background: none;
+  background: transparent;
   width: auto;
   margin: 0em 0em;
   padding: 0.75em 1em;
