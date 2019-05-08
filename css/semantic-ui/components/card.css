@@ -573,7 +573,7 @@ a.ui.card:hover,
 .ui.darkteal.cards > .card,
 .ui.cards > .teal.card,
 .ui.teal.card {
-  box-shadow: 0px 0px 0px 1px #747575, 0px 2px 0px 0px #1c6f75, 0px 1px 3px 0px #747575;
+  box-shadow: 0px 0px 0px 2px #747575, 0px 4px 0px 0px #1c6f75, 0px 2px 6px 0px #747575;
 }
 .ui.darkteal.cards > .card:hover,
 .ui.cards > .teal.card:hover,
