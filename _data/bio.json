@@ -8,7 +8,7 @@
     "website": "https://KatrinaTurner.github.io",
     "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "1680 East West Road POST 303-2",
+      "address": "University of Hawai'i at Manoa",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -49,9 +49,10 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java",
         "Javascript",
         "Python",
+        "R",
+        "Java",
         "HTML/CSS",
         "Meteor/React"
       ]
@@ -61,7 +62,8 @@
       "level": "",
       "keywords": [
         "GitHub",
-        "Jupyter Notebook"
+        "Jupyter Notebook",
+        "Gephi"
       ]
     }
   ],
@@ -76,8 +78,10 @@
       "courses": [
         "Algorithms",
         "Data Science",
+        "Machine Learning",
+        "Network Science",
         "Software Engineering",
-        "Machine Learning"
+        "Virtual & Augmented Reality"
       ]
     },
     {
