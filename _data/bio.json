@@ -29,17 +29,16 @@
   },
   "interests": [
     {
+      "name": "Data Visualization",
+      "keywords": []
+    },
+    {
       "name": "Data Science",
       "keywords": [
       ]
     },
     {
       "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Machine Learning",
       "keywords": [
       ]
     }
@@ -49,9 +48,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java",
         "Javascript",
         "Python",
+        "Java",
+        "C#",
+        "C",
         "HTML/CSS",
         "Meteor/React"
       ]
@@ -61,7 +62,8 @@
       "level": "",
       "keywords": [
         "GitHub",
-        "Jupyter Notebook"
+        "Jupyter Notebook",
+        "Unity"
       ]
     }
   ],
@@ -77,7 +79,11 @@
         "Algorithms",
         "Data Science",
         "Software Engineering",
-        "Machine Learning"
+        "Machine Learning",
+        "Virtual & Augmented Reality",
+        "Data Visualization",
+        "Network Science",
+        "Computer Networks"
       ]
     },
     {
@@ -105,7 +111,7 @@
       "endDate": "Present",
       "summary": "Data Science and Visualization",
       "highlights": [
-        "Current Project: NetSage (Visualizing network flow data)"
+        "Current Project: NetSage (visualizing network flow data)"
       ]
     },
     {
@@ -142,7 +148,7 @@
       "website": "",
       "position": "Coach/Tournament Director",
       "startDate": "2012-01-01",
-      "endDate": "Present",
+      "endDate": "2019-04-01",
       "summary": "Help organize and run OIA wrestling tournaments",
       "highlights": [
         "2014-2018: Administrative Coach at Castle High School.",
