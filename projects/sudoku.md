@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: draft
 image: images/hexadecimal-sudoku.jpg
 title: Sudoku Solver
 permalink: projects/sudokusolver
