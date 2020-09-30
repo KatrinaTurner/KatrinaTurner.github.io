@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: To FB or not to FB...
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-18
