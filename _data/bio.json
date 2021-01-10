@@ -50,9 +50,9 @@
       "keywords": [
         "Javascript",
         "Python",
-        "Java",
         "C#",
         "C",
+        "Java",
         "HTML/CSS",
         "Meteor/React"
       ]
@@ -63,7 +63,8 @@
       "keywords": [
         "GitHub",
         "Jupyter Notebook",
-        "Unity"
+        "Unity",
+        "Grafana"
       ]
     }
   ],
@@ -74,16 +75,16 @@
       "studyType": "M.S.",
       "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "3.9",
       "courses": [
         "Algorithms",
         "Data Science",
-        "Software Engineering",
-        "Machine Learning",
-        "Virtual & Augmented Reality",
         "Data Visualization",
+        "Machine Learning",
         "Network Science",
-        "Computer Networks"
+        "Software Engineering",
+        "Video Game Design",
+        "Virtual & Augmented Reality"
       ]
     },
     {
@@ -111,7 +112,7 @@
       "endDate": "Present",
       "summary": "Data Science and Visualization",
       "highlights": [
-        "Current Project: NetSage (visualizing network flow data)"
+        "Current Project: NetSage (creating visualizations for Internet2 network flow data)"
       ]
     },
     {
