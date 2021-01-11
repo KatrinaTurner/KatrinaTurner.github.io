@@ -4,12 +4,16 @@
 :root {
     --myFont: "Noto Sans JP";
     --dark1: #0a1942;
+    --dark2: #260d5f;
     --light1: #6266a3;
+    --light2: rgb(170, 169, 169);
+    --card1: #afb2d4;
+    --card2: rgb(170, 169, 169);
     --bright1: #433da3;
 }
 
 body {
-    background: url('/images/background06-key.jpg');
+    background: url('/images/background06-key25.png');
     background-size: cover;
     background-attachment: fixed;
     font-family: var(--myFont), sans-serif;
@@ -43,7 +47,7 @@ body #main-content {
     margin-top: 1em;
     align-self: center;
     width: 90%;
-    padding: 0 2em;
+    padding: 0 2em 3em 2em;
     background-color: rgba(0,0,0,0.7);
     border-radius: 5px;
     box-shadow: 0 0 15px 10px var(--bright1);
@@ -61,7 +65,25 @@ body #center {
 }
 
 body #footer {
-    margin-top: 5em;
+    margin: 0;
+    padding: 5em 2em 2em 2em;
+    width: 100%;
+    font-size: small;
+}
+
+body #essay-text {
+    text-align: justify;
+}
+
+body #card {
+    background-color: var(--card2);
+    opacity: 80%;
+    color: white;
+}
+body #card-content {
+    background-color: black;
+    opacity: 90%;
+    color: white;
 }
 
 .ui.header {
@@ -74,8 +96,30 @@ body #footer {
     font-weight: 800;
     width: 100%;
     text-align: center;
-    text-shadow: -1px 1px 2px  var(--dark1),
-		1px 1px 2px   var(--dark1),
-		1px -1px 0   var(--dark1),
-		-1px -1px 0   var(--dark1);
+    color: var(--light2);
+    text-shadow: -1px 1px 2px  var(--dark2),
+		1px 1px 2px   var(--dark2),
+		1px -1px 0   var(--dark2),
+		-1px -1px 0   var(--dark2);
+}
+
+.ui.raised.card {
+    margin: 1em;
+    opacity: 0.9;
+    box-shadow: 0 0 5px 2px var(--bright1);
+}
+
+/* Cards */
+
+.header {
+    color: var(--light1) !important;
+}
+
+.meta {
+    color: var(--card1) !important;
+}
+
+.description {
+    text-align: justify;
+    color: var(--light2) !important;
 }
