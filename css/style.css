@@ -6,10 +6,12 @@
     --dark1: #0a1942;
     --dark2: #260d5f;
     --light1: #6266a3;
-    --light2: rgb(170, 169, 169);
+    --bright1: #433da3;
+    --grey1: rgb(187, 187, 187);
+    --grey2: rgb(70, 70, 70);
     --card1: #afb2d4;
     --card2: rgb(170, 169, 169);
-    --bright1: #433da3;
+    
 }
 
 body {
@@ -86,6 +88,59 @@ body #card-content {
     color: white;
 }
 
+body #resume-title {
+    font-size: xxx-large;
+    font-weight: 900;
+    text-align: center;
+    padding: 20px 0;
+}
+
+body #resume-subtitle {
+    font-size: large;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px 0;
+}
+
+body #resume-side {
+    color: var(--grey1);
+}
+
+body #resume-side-text {
+    padding-bottom: 1em;
+}
+
+body #resume-main {
+    background-color: var(--grey1);
+    opacity: 80%;
+    color: var(--dark2);
+}
+
+body #resume-h2 {
+    font-size: large;
+    font-weight: 600;
+    color: var(--dark1);
+}
+
+body #resume-h3 {
+    font-size: medium;
+    font-weight: 500;
+    color: var(--grey2);
+}
+
+body #resume-corner {
+    background-color: var(--light1);
+    padding: 10px;
+    color: black;
+    margin: 0 -10px -60px 10px;
+    z-index: 1;
+}
+
+body #resume-row {
+    margin: 10px 0;
+}
+
+
 .ui.header {
     font-family: var(--myFont), sans-serif;
     color: white
@@ -96,7 +151,7 @@ body #card-content {
     font-weight: 800;
     width: 100%;
     text-align: center;
-    color: var(--light2);
+    color: var(--grey1);
     text-shadow: -1px 1px 2px  var(--dark2),
 		1px 1px 2px   var(--dark2),
 		1px -1px 0   var(--dark2),
@@ -121,5 +176,5 @@ body #card-content {
 
 .description {
     text-align: justify;
-    color: var(--light2) !important;
+    color: var(--grey1) !important;
 }
