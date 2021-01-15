@@ -7,6 +7,7 @@
     --dark2: #260d5f;
     --light1: #6266a3;
     --bright1: #433da3;
+    --grey0: rgb(226, 226, 226);
     --grey1: rgb(187, 187, 187);
     --grey2: rgb(70, 70, 70);
     --card1: #afb2d4;
@@ -33,6 +34,7 @@ body #menu-item{
     font-family: var(--myFont), sans-serif;
     color: white;
     font-size: large;
+    font-weight: 500;
     padding: 0 4em;
     text-align: center;
     text-shadow: -1px 1px 2px  var(--dark1),
@@ -90,14 +92,18 @@ body #card-content {
 
 body #resume-title {
     font-size: xxx-large;
-    font-weight: 900;
+    font-weight: 800;
     text-align: center;
-    padding: 20px 0;
+    text-shadow: -1px 1px 2px  var(--light1),
+		1px 1px 2px   var(--light1),
+		1px -1px 0   var(--light1),
+		-1px -1px 0   var(--light1);
+    padding: 1em 0 0.3em 0;
 }
 
 body #resume-subtitle {
     font-size: large;
-    font-weight: 400;
+    font-weight: 500;
     text-align: center;
     padding: 10px 0;
 }
@@ -111,9 +117,10 @@ body #resume-side-text {
 }
 
 body #resume-main {
-    background-color: var(--grey1);
+    background-color: var(--grey0);
     opacity: 80%;
     color: var(--dark2);
+
 }
 
 body #resume-h2 {
