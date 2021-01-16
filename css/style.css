@@ -61,6 +61,10 @@ body #link {
     color: var(--light1);
 }
 
+body #light1 {
+    color: var(--light1);
+}
+
 body #center {
     text-align: center;
     text-anchor: middle;
@@ -113,7 +117,7 @@ body #resume-side {
 }
 
 body #resume-side-text {
-    padding-bottom: 1em;
+    padding-bottom: 2em;
 }
 
 body #resume-main {
