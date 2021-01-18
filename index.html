@@ -21,16 +21,16 @@
         </div>
         <script>
             $(function () {
-                    $("#nav-bar").load("nav.html");
-                });
+                $("#nav-bar").load("nav.html");
+            });
         </script>
 
         <!--Content-->
-        <div class="ui padded container" id="main-content">
+        <div class="ui padded container">
             <div class="ui padded grid">
-                <div class="ui row">
+                <div class="centered row">
                     <img src="/images/headshot1square2b.jpg" class="ui medium circular image"
-                        style="display: block; margin: auto; width: 25%;">
+                        style="display: block; margin: auto; width: 40%;">
                     <p class="title">Katrina Hi'ilani Turner</p>
                 </div>
                 <div class="ui centered row" style="text-align: center;">
@@ -39,35 +39,93 @@
                     <br>
                     I expect to graduate in May 2021.
                     <br>
-                    Interests: Data Visualization, Data Science, Software Engineering
                 </div>
-                <div class="ui row">
-                    <h1 class="ui header">Background</h1>
-                    <p>
-                        Born and raised in Kaneohe, Hawai'i, I received an Bachelors of Education in Secondary Ed:
-                        Mathematics from the University of Hawai'i at Mānoa and taught high school math around Oahu,
-                        most recently at my Alma Mater, Castle High School.
-                        Teaching was an invaluable experience and provided me with the opportunity to give back to my
-                        community, but after 7 years I yearned for a career change.
-                        I decided to combine my passions for puzzles, logic & creativity and returned to school to
-                        pursue a Master's degree in Computer Science.
-                        <br>
-                        I am currently employed at the University of Hawaiʻi at Mānoa’s <a id="link"
-                            href="https://www.lavaflow.info/about">Laboratory for Advanced Visualization & Applications
-                            (LAVA)</a> as a Research Assistant.
-                        My responsibilities include creating new ways to visualize Internet2 Network flow data for the
-                        <a id="link" href="https://www.netsage.global/">NetSage Project.</a>
-                        <br>
-                        After graduation, I hope to remain in Hawai'i and find a job where I can pursue my interests of
-                        Data Science and Data Visualization.
-                    </p>
+                <div class="ui centered row">
+                    <!-- <h2>Interests:</h2> -->
+                    <div class="ui buttons" style="margin-bottom: 20px;">
+                        <div class="ui button" id="button">
+                            <i class="large sitemap icon"></i>
+                            Data Visualization
+                        </div>
+                        <div class="ui button" id="button">
+                            <i class="large chart line icon"></i>
+                            Data Science
+                        </div>
+                        <div class="ui button" id="button">
+                            <i class="large gamepad icon"></i>
+                            Game Design
+                        </div>
+                        <div class="ui button" id="button">
+                            <i class="large computer icon"></i>
+                            Software Engineering
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-        
+        <!--start box-->
+        <div class="ui padded container" id="main-content" style="width: 100%;">
+            <div class="ui padded grid">
+                <!--Background-->
+                <div class="ui row">
+                    <div class="ui container" style="padding-top: 1em;">
+                        <h1 class="ui header">Background</h1>
+                        <p>
+                            Born and raised in Kaneohe, Hawai'i, I received an Bachelors of Education in Secondary Ed:
+                            Mathematics from the University of Hawai'i at Mānoa and taught high school math around Oahu,
+                            most recently at my Alma Mater, Castle High School.
+                            Teaching was an invaluable experience and provided me with the opportunity to give back to
+                            my
+                            community, but after 7 years I yearned for a career change.
+                            I decided to combine my passions for puzzles, logic & creativity and returned to school to
+                            pursue a Master's degree in Computer Science.
+                            <br>
+                            I am currently employed at the University of Hawaiʻi at Mānoa’s <a id="link"
+                                href="https://www.lavaflow.info/about">Laboratory for Advanced Visualization &
+                                Applications
+                                (LAVA)</a> as a Research Assistant.
+                            My responsibilities include creating new ways to visualize Internet2 Network flow data for
+                            the
+                            <a id="link" href="https://www.netsage.global/">NetSage Project.</a>
+                            <br>
+                            After graduation, I hope to remain in Hawai'i and find a job where I can pursue my interests
+                            of
+                            Data Science and Data Visualization.
+                        </p>
+                    </div>
+                </div>
+                <!--News-->
+                <div class="ui row">
+
+                    <div class="ui container" style="padding-top: 1em;">
+                        <h1 class="ui header">News</h1>
+                        <div class="ui padded grid">
+                            <div class="ui row">
+                                <h3 style="color: white;">Published!</h3>
+                                <p> (November 2020)</p>
+                                <p>
+                                    A paper I authored for NetSage was published in the INDIS workshop at Super Computing 2020! I
+                                    participated in the workshop as a presenter. This was my first publication
+                                    and first time presenting at a conference. It was unfortunately only online due to
+                                    COVID, but still a great experience! The paper is published by IEEE. See more about
+                                    the paper <a href="/papers.html">here.</a>
+                                </p>
+                            </div>
+                            <div class="row">
+                                <h2 class="ui header"></h2>
+                                <p>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <!--Footer-->
         <div id="footer-place">
-        
+
         </div>
         <script>
             $(function () {
@@ -76,4 +134,5 @@
         </script>
 
     </body>
+
 </html>

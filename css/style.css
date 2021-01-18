@@ -61,6 +61,13 @@ body #link {
     color: var(--light1);
 }
 
+body #button {
+    background-color: var(--dark2);
+    color: var(--grey0);
+    margin: 5px;
+    box-shadow: 0 0 5px 2px var(--light1);
+}
+
 body #light1 {
     color: var(--light1);
 }
