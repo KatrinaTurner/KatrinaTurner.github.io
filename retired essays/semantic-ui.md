@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: draft
 title: From Myspace to Semantic UI
 # All dates must be YYYY-MM-DD format!
 date: 2019-02-21
