@@ -24,6 +24,74 @@ body {
     color: grey;
 }
 
+body #button {
+    background-color: var(--dark2);
+    color: var(--grey0);
+    margin: 5px;
+    box-shadow: 0 0 5px 2px var(--light1);
+}
+
+body #card {
+    background-color: var(--card2);
+    opacity: 80%;
+    color: white;
+}
+body #card-button {
+    color: var(--dark2);
+    background-color: var(--grey0);
+    margin: 10px 0;
+    box-shadow: 0 0 5px 2px var(--light1);
+}
+body #card-extra {
+    background-color: var(--grey2);
+}
+body #card-content {
+    background-color: black;
+    opacity: 90%;
+    color: white;
+}
+
+body #center {
+    text-align: center;
+    text-anchor: middle;
+    align-content: center;
+    width: 100%;
+}
+
+body #essay-text {
+    text-align: justify;
+    width: 100%;
+}
+
+body #footer {
+    margin: 0;
+    padding: 5em 2em 2em 2em;
+    width: 100%;
+    font-size: small;
+}
+
+body #icon {
+    color: white;
+}
+
+body #light1 {
+    color: var(--light1);
+}
+
+body #link {
+    color: var(--light1);
+}
+
+body #main-content {
+    margin-top: 1em;
+    align-self: center;
+    width: 90%;
+    padding: 0 2em 3em 2em;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 5px;
+    box-shadow: 0 0 15px 10px var(--bright1);
+}
+
 body #menu {
     z-index: 9999;
     position: fixed;
@@ -43,63 +111,49 @@ body #menu-item{
 		-1px -1px 0   var(--dark1);
 }
 
-body #icon {
-    color: white;
+body #resume-corner {
+    background-color: var(--light1);
+    padding: 10px;
+    color: black;
+    margin: 0 -10px -60px 10px;
+    z-index: 1;
 }
 
-body #main-content {
-    margin-top: 1em;
-    align-self: center;
-    width: 90%;
-    padding: 0 2em 3em 2em;
-    background-color: rgba(0,0,0,0.7);
-    border-radius: 5px;
-    box-shadow: 0 0 15px 10px var(--bright1);
+body #resume-h2 {
+    font-size: large;
+    font-weight: 600;
+    color: var(--dark1);
+} 
+
+body #resume-h3 {
+    font-size: medium;
+    font-weight: 500;
+    color: var(--grey2);
 }
 
-body #link {
-    color: var(--light1);
-}
-
-body #button {
-    background-color: var(--dark2);
-    color: var(--grey0);
-    margin: 5px;
-    box-shadow: 0 0 5px 2px var(--light1);
-}
-
-body #light1 {
-    color: var(--light1);
-}
-
-body #center {
-    text-align: center;
-    text-anchor: middle;
-    align-content: center;
-    width: 100%;
-}
-
-body #footer {
-    margin: 0;
-    padding: 5em 2em 2em 2em;
-    width: 100%;
-    font-size: small;
-}
-
-body #essay-text {
-    text-align: justify;
-    width: 100%;
-}
-
-body #card {
-    background-color: var(--card2);
+body #resume-main {
+    background-color: var(--grey0);
     opacity: 80%;
-    color: white;
+    color: var(--dark2);
 }
-body #card-content {
-    background-color: black;
-    opacity: 90%;
-    color: white;
+
+body #resume-row {
+    margin: 10px 0;
+}
+
+body #resume-side {
+    color: var(--grey1);
+}
+
+body #resume-side-text {
+    padding-bottom: 2em;
+}
+
+body #resume-subtitle {
+    font-size: large;
+    font-weight: 500;
+    text-align: center;
+    padding: 10px 0;
 }
 
 body #resume-title {
@@ -112,53 +166,6 @@ body #resume-title {
 		-1px -1px 0   var(--light1);
     padding: 1em 0 0.3em 0;
 }
-
-body #resume-subtitle {
-    font-size: large;
-    font-weight: 500;
-    text-align: center;
-    padding: 10px 0;
-}
-
-body #resume-side {
-    color: var(--grey1);
-}
-
-body #resume-side-text {
-    padding-bottom: 2em;
-}
-
-body #resume-main {
-    background-color: var(--grey0);
-    opacity: 80%;
-    color: var(--dark2);
-
-}
-
-body #resume-h2 {
-    font-size: large;
-    font-weight: 600;
-    color: var(--dark1);
-}
-
-body #resume-h3 {
-    font-size: medium;
-    font-weight: 500;
-    color: var(--grey2);
-}
-
-body #resume-corner {
-    background-color: var(--light1);
-    padding: 10px;
-    color: black;
-    margin: 0 -10px -60px 10px;
-    z-index: 1;
-}
-
-body #resume-row {
-    margin: 10px 0;
-}
-
 
 .ui.header {
     font-family: var(--myFont), sans-serif;
