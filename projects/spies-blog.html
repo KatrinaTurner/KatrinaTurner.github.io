@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Katrina H. Turner | S.P.I.E.S.</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <link rel="stylesheet" href="/css/style.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+</head>
+
+<body>
+    <!--Menu-->
+    <div id="nav-bar">
+
+    </div>
+    <script>
+        $(function () {
+            $("#nav-bar").load("nav-proj.html");
+        });
+    </script>
+
+    <!--Content-->
+    <div class="ui container" id="main-content">
+        <div class="ui padded grid">
+            <div class="ui centered row">
+                <p class="title">S.P.I.E.S.</p>
+                Sneaky People In Extreme Situations
+            </div>
+
+            <div class="ui row">
+                <div class="ui grid container">
+                    <div class="row">
+                        <h3 class="ui header">Overview</h3>
+                        <div id="essay-text">
+                            <img class="ui medium rounded left floated image" src="../images/SPIES-logo-purple.png"
+                                style="margin-right: 20px; background-color: lightslategray;">
+                            This is a two person co-op designed to develop communication and teamwork skills. It was
+                            inspired by various puzzle games and breakout rooms. The main objective of the game is to
+                            extract the enemy harddrive.
+                            <br>
+                            <h3>GamePlay:</h3> The Operator helps the Spy navigate through rooms quickly until the Spy
+                            finds hard drive and then gets the Spy back out safely without getting caught. The doors
+                            between rooms are locked and various tasks or puzzles must be completed to unlock them. Only
+                            the Spy can see the doors and only the Operator has access to the manual for opening the
+                            doors.
+                            The Spy is in a VR headset, while the Operator is on a computer screen, preferably a large
+                            one. When we designed this for our class, the Operator was on a tile display wall to give it
+                            more of a sci-fi feel.
+                            <h3>The Spy:</h3>
+                            The Spy is placed in a virtual enemy world. He/she relays information about their world to
+                            the operator and follows operator instructions to open doors and navigate throughout the
+                            building. They must also avoid hazards like the alien Kirin guards.
+                            <h3>The Operator:</h3>
+                            The Operator has access to all the information needed for the Spy to solve puzzles. In
+                            addition, they have an x-ray view of the entire enemy building. They can also close doors
+                            and access additional information using their console. The operator cannot see guards or
+                            other details about the Spy's world other than their position. <br>
+                            *The Operator has the option to use a 3D view on a CyberCANOE
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <h3 class="ui header">My Responsibilities</h3>
+                        <div id="essay-text">
+                            <img class="ui medium rounded right floated image" src="../images/SPIES-orb.png"
+                                style="margin-left: 20px;">
+                            My official responsibilities for this game were "Game Master" and Spy UI. Basically, I
+                            created the VR environment for the Spy and all the puzzles/games for the doors.
+                            <br>
+                            The environment was inspired by the movie "Cube" in that the rooms are connected together to
+                            form a cube and there are doors to move between rooms on all four sides as well as the
+                            ceiling and floor. Since part of the game is that the Spy needs the Operator's help to
+                            navigate, the rooms are all exactly the same and fit together modularly. This was I was able
+                            to randomize the rotation of each room on the map. I also randomized the color theme of each
+                            room so they look at least slightly different. Between the colors and rotation, it should
+                            feel like you are getting a new environment every time you play the game. I used a SNAPS
+                            asset package from the Unity Asset store for most of the environment GameObjects and created
+                            my own materials.
+                            <br>
+                            The majority of my time was spent creating and coding the door puzzles. This portion was a
+                            lot of fun. We brainstormed ideas for the puzzles as a group and I was able to implement
+                            four of the puzzles in the time frame of the semester:
+                            <ul>
+                                <li>What's the Password?</li>
+                                <li>Truth or Lie</li>
+                                <li>Switch On Switch Off</li>
+                                <li>Clever Levers</li>
+                            </ul>
+                            See the <a href="/files/SPIES-manual.pdf" id="link">Manual</a> for an explanation of each.
+                            <br>
+                            The process of creating the logic and implementing the code for the puzzles was rather long
+                            and a steep learning curve for me using a new language.
+                            As I worked through the puzzles, the process that I found the most effective for
+                            creating these puzzles was to:
+                            <ol>
+                                <li><b>Outline</b> the parameters of the puzzle</li>
+                                <li>Sketch out psuedo code <b>algorithm</b></li>
+                                <li><b>Code & test</b> sections of algorithm separately</li>
+                                <li>Combine all code and test in <b>environment</b></li>
+                            </ol>
+                            This was my first time using Unity and the C# language so writing out the psuedo code first
+                            was extremely helpful for me to visualize what I wanted to do before jumping in to writing
+                            the C# code.
+                            <img class="ui large rounded left floated image" src="../images/SPIES-switches.jpg"
+                                style="margin-right: 20px; margin-top: 20px;">
+                            <br>
+                            In addition to coding the puzzles, I helped create the manual and resources the Operator
+                            uses to figure out the puzzles. This didn't require any coding since I designed it entirely in
+                            <a href="www.canva.com" id="link" target="_blank">Canva.</a>
+                            Working out the logic was still a lot of fun though and trying to find a good level of
+                            difficulty proved to be more difficult than I thought. I enlisted the help of various
+                            coworker and friends to review the materials I made to make sure they made sense.
+                            In the end, our game still has a bit of a learning curve, like "Keep Talking and Won't
+                            Explode," and while it is not for the feint of heart, I think it's fun to play.
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h3 class="ui header">Reflection</h3>
+                        <div id="essay-text">
+                            I was fortunate to work with two teammates who already knew a lot about Unity and could help me learn really quickly.
+                            I went from creating a cube I could move with my arrow keys to creating a world of rooms
+                            with puzzles that open doors. It was quite an experience.  I have always loved being creative and this provided me a great creative outlet.
+                            I overcame lots of coding logic challenges and learned about the rendering capabilities (and limitations) when it comes to lighting.  
+                            Spoiler Alert: real-time light calculations are <b>expensive!</b>  But more than anything, I had FUN and while increasing my coding language repertoire.
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h3 class="ui header">Watch Some Game Play...</h3>
+
+                    </div>
+                    <div class="centered row">
+                        <iframe width="80%" height="500px" src="https://www.youtube.com/embed/EgY73ZiRrnc"></iframe>
+                    </div>
+                    <div class="centered row">
+                        <a class="ui large button" href="spies-slides.pdf" target="_blank" id="button">See Project
+                            Slides</a>
+                        <a class="ui large button" href="/files/SPIES-manual.pdf" target="_blank" id="button">See
+                            Operators Manual</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer-->
+    <div id="footer-place">
+
+    </div>
+    <script>
+        $(function () {
+            $("#footer-place").load("../footer.html");
+        });
+    </script>
+
+</body>
+
+</html>

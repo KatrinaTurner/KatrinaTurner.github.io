@@ -98,6 +98,12 @@ body #menu {
     width: 100%;
 }
 
+body #menu-center {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
 body #menu-item{
     font-family: var(--myFont), sans-serif;
     color: white;

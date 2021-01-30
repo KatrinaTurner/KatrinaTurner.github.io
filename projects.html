@@ -1,254 +1,290 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <meta charset="UTF-8">
-        <title>Katrina H. Turner | Projects</title>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
-        <link rel="stylesheet" href="./css/style.css">
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
-        <link rel="shortcut icon" type="image/jpg" href="./favicon.ico" />
+<head>
+    <meta charset="UTF-8">
+    <title>Katrina H. Turner | Projects</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <link rel="stylesheet" href="./css/style.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <link rel="shortcut icon" type="image/jpg" href="./favicon.ico" />
 
-    </head>
+</head>
 
-    <body>
-        <!--Menu-->
-        <div id="nav-bar">
+<body>
+    <!--Menu-->
+    <div id="nav-bar">
 
+    </div>
+    <script>
+        $(function () {
+            $("#nav-bar").load("nav.html");
+        });
+    </script>
+
+    <!--Content-->
+    <div class="ui container" style="width: 90%; margin: auto;">
+        <div class="ui centered row" style="padding: 2em;">
+            <p class="title">Projects<br></p>
         </div>
-        <script>
-            $(function () {
-                $("#nav-bar").load("nav.html");
-            });
-        </script>
+        <div class="row">
+            <div class="ui fluid four stackable centered cards">
 
-        <!--Content-->
-        <div class="ui container" style="width: 90%; margin: auto;">
-            <div class="ui centered row" style="padding: 2em;">
-                <p class="title">Projects<br></p>
-            </div>
-            <div class="row">
-                <div class="ui fluid four stackable centered cards">
-
-                    <!--Project Card-->
-                    <div class="ui raised card">
-                        <a class="image" id="card" href="">
-                            <img src="images/manta-square.jpg">
+                <!--Project Card-->
+                <div class="ui raised card">
+                    <a class="image" id="card" href="">
+                        <img src="images/inprogress.png">
+                    </a>
+                    <div class="content" id="card-content">
+                        <div class="header">Lost & Found in SPACE</div>
+                        <div class="meta">
+                            <span class="date">January 2021</span>
+                        </div>
+                        <div class="meta">
+                            Global Game Jam 2021
+                        </div>
+                        <div class="description">
+                            The theme for this year's Global Game Jam is "Lost and Found."  Game Jam is still in progress so I can't give away too many details yet... Just know, it's in SPACE.
+                        </div>
+                    </div>
+                    <div class="extra content" id="card-extra">
+                        <a href="/projects/ggj-2021-blog.html" class="ui fluid button" id="card-button">
+                            See Blog
                         </a>
-                        <div class="content" id="card-content">
-                            <div class="header">Mantas of Kāne'ohe Bay</div>
-                            <div class="meta">
-                                <span class="date">November 2020</span>
-                            </div>
-                            <div class="meta">
-                                ICS 484: Data Visualization
-                            </div>
-                            <div class="description">
-                                This was my final project for my Data Visualization class. I was part of a team of 3
-                                that created a website to visualize data on Manta Ray sightings in Kāne'ohe Bay. Website
-                                was created for a Marine Biology student's personal project and data is continuously
-                                collected.
-                            </div>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    $('.ui.button').click(function () {
+                        $('#test-modal').modal('show');
+                    });
+                </script>
+                
+                <!--Project Card-->
+                <div class="ui raised card">
+                    <a class="image" id="card" href="">
+                        <img src="images/manta-square.jpg">
+                    </a>
+                    <div class="content" id="card-content">
+                        <div class="header">Mantas of Kāne'ohe Bay</div>
+                        <div class="meta">
+                            <span class="date">November 2020</span>
                         </div>
-                        <div class="extra content" id="card-extra">
-                            <a href="/projects/mantas-blog.html" class="ui fluid button" id="card-button">
-                                See Blog
-                            </a>
-                            <a href="https://kaneohe-bay-mantas.github.io/manta-viz/index.html" target="_blank" class="ui fluid button" id="card-button">
-                                Go to Project
-                            </a>
+                        <div class="meta">
+                            ICS 484: Data Visualization
+                        </div>
+                        <div class="description">
+                            This was my final project for my Data Visualization class. I was part of a team of 3
+                            that created a website to visualize data on Manta Ray sightings in Kāne'ohe Bay. Website
+                            was created for a Marine Biology student's personal project and data is continuously
+                            collected.
                         </div>
                     </div>
-                    <script type="text/javascript">
-                        $('.ui.button').click(function () {
-                            $('#test-modal').modal('show');
-                        });
-                    </script>
-
-                    <!--Project Card-->
-                    <div class="ui raised card">
-                        <a class="image" id="card" href="/projects/genome-deep-learning.pdf">
-                            <img src="">
+                    <div class="extra content" id="card-extra">
+                        <a href="/projects/mantas-blog.html" class="ui fluid button" id="card-button">
+                            See Blog
                         </a>
-                        <div class="content" id="card-content">
-                            <a class="header">Identifying Cancer Using Genome Deep Learning</a>
-                            <div class="meta">
-                                <span class="date">May 2020</span>
-                            </div>
-                            <div class="meta">
-                                ICS 675: Bioinformatics
-                            </div>
-                            <div class="description">
-                                This was my final group project for Bioinformatics. We utilized deep learning methods to
-                                predict if a patient had cancer and what type of cancer based on their genomes.
-                            </div>
-                        </div>
-                        <div class="extra content" id="card-extra">
-                            <a href="projects/genome-deep-learning.pdf" target="_blank" class="ui fluid button" id="card-button">
-                                Read Paper
-                            </a>
-                            <a href="projects/genome-deep-learning-slides.pdf" target="_blank" class="ui fluid button" id="card-button">
-                                View Project Slide Deck
-                            </a>
-                        </div>
-                    </div>
-
-
-                    <!--Project Card-->
-                    <div class="ui raised card">
-                        <a class="image" id="card" href="">
-                            <img src="images/SPIES-logo-purple.png">
+                        <a href="https://kaneohe-bay-mantas.github.io/manta-viz/index.html" target="_blank"
+                            class="ui fluid button" id="card-button">
+                            Go to Project
                         </a>
-                        <div class="content" id="card-content">
-                            <a class="header">SPIES: Sneaky People in Extreme Situations</a>
-                            <div class="meta">
-                                <span class="date">November 2019</span>
-                            </div>
-                            <div class="meta">
-                                ICS 685: Virtual & Augmented Reality
-                            </div>
-                            <div class="description">
-                                As our final project for VR class, my team created a 2-player VR game call SPIES. Player
-                                1 is the spy in a VR world and attempts to complete their mission with the help of
-                                Player 2, the tech support, who is armed with a manual and console on a regular desktop.
-                            </div>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    $('.ui.button').click(function () {
+                        $('#test-modal').modal('show');
+                    });
+                </script>
+
+                <!--Project Card-->
+                <div class="ui raised card">
+                    <a class="image" id="card" href="/projects/genome-deep-learning.pdf">
+                        <img src="">
+                    </a>
+                    <div class="content" id="card-content">
+                        <a class="header">Identifying Cancer Using Genome Deep Learning</a>
+                        <div class="meta">
+                            <span class="date">May 2020</span>
                         </div>
-                        <div class="extra content" id="card-extra">
-                            <a href="/projects/spies-slides.pdf" target="_blank" class="ui fluid button" id="card-button">
-                                View Project Slide Deck
-                            </a>
-                            <!-- <a href="/projects/SPIES.html" class="ui fluid button" id="card-button">
-                                                                See Blog
-                                                            </a> -->
+                        <div class="meta">
+                            ICS 675: Bioinformatics
+                        </div>
+                        <div class="description">
+                            This was my final group project for Bioinformatics. We utilized deep learning methods to
+                            predict if a patient had cancer and what type of cancer based on their genomes.
                         </div>
                     </div>
+                    <div class="extra content" id="card-extra">
+                        <a href="projects/genome-deep-learning.pdf" target="_blank" class="ui fluid button"
+                            id="card-button">
+                            Read Paper
+                        </a>
+                        <a href="projects/genome-deep-learning-slides.pdf" target="_blank" class="ui fluid button"
+                            id="card-button">
+                            View Project Slide Deck
+                        </a>
+                    </div>
+                </div>
 
-                    <!--Project Card-->
-                    <div class="ui raised card">
-                        <div class="image" id="card">
-                            <img src="">
+
+                <!--Project Card-->
+                <div class="ui raised card">
+                    <a class="image" id="card" href="">
+                        <img src="images/SPIES-logo-purple.png">
+                    </a>
+                    <div class="content" id="card-content">
+                        <a class="header">SPIES: Sneaky People in Extreme Situations</a>
+                        <div class="meta">
+                            <span class="date">November 2019</span>
                         </div>
-                        <div class="content" id="card-content">
-                            <a class="header">Predicting Student Success</a>
-                            <div class="meta">
-                                <span class="date">May 2019</span>
-                            </div>
-                            <div class="meta">
-                                ICS 635: Machine Learning & ICS 691: Data Science
-                            </div>
-                            <div class="description">
-                                This was my final project for my Machine Learning and Data Science classes. I used
-                                grades and various background info on students to create a model that predicts whether a
-                                student would be successful in Algebra 2. The data came from the high school I used to
-                                teach at and I gave my model back to the math department for them to use with future
-                                students.
-                            </div>
+                        <div class="meta">
+                            ICS 685: Virtual & Augmented Reality
                         </div>
-                        <div class="extra content" id="card-extra">
-                                <a href="projects/predicting-student-success.pdf" target="_blank" class="ui fluid button" id="card-button">
-                                    Read Paper
-                                </a>
+                        <div class="description">
+                            As our final project for VR class, my team created a 2-player VR game call SPIES. Player
+                            1 is the spy in a VR world and attempts to complete their mission with the help of
+                            Player 2, the tech support, who is armed with a manual and console on a regular desktop.
                         </div>
                     </div>
+                    <div class="extra content" id="card-extra">
+                        <a href="/projects/spies-blog.html" class="ui fluid button" id="card-button">See Blog</a>
+                        <a href="/projects/spies-slides.pdf" target="_blank" class="ui fluid button" id="card-button">
+                            View Project Slide Deck
+                        </a>
 
+                    </div>
+                </div>
 
-                    <!--Project Card-->
-                    <div class="ui raised card">
-                        <div class="image" id="card">
-                            <img src="images/hangryfix-logo.png">
+                <!--Project Card-->
+                <div class="ui raised card">
+                    <div class="image" id="card">
+                        <img src="">
+                    </div>
+                    <div class="content" id="card-content">
+                        <a class="header">Predicting Student Success</a>
+                        <div class="meta">
+                            <span class="date">May 2019</span>
                         </div>
-                        <div class="content" id="card-content">
-                            <a class="header">Hangry Fix</a>
-                            <div class="meta">
-                                <span class="date">May 2019</span>
-                            </div>
-                            <div class="meta">
-                                ICS 314: Software Engineering
-                            </div>
-                            <div class="description">
-                                As the final project for Software Engineering, we were tasked to create a Web App that
-                                would benefit our campus. We chose to create an app called hangryFIX that is similar to
-                                Yelp, but is focused on the actual food items, rather than restaurants since that is
-                                generally more important when you are really hungry. I worked on a team of 3 to create a
-                                Meteor web app that utilized React Semantic UI as a tool to write it.
-                            </div>
+                        <div class="meta">
+                            ICS 635: Machine Learning & ICS 691: Data Science
                         </div>
-                        <div class="extra content" id="card-extra">
-                            <a href="/projects/hangry-fix-blog.html" class="ui fluid button" id="card-button">
-                                See Blog
-                            </a>
-                            <a href="https://hangryfix.github.io/" target="_blank" class="ui fluid button" id="card-button">
-                                Go to Project Page
-                            </a>
+                        <div class="description">
+                            This was my final project for my Machine Learning and Data Science classes. I used
+                            grades and various background info on students to create a model that predicts whether a
+                            student would be successful in Algebra 2. The data came from the high school I used to
+                            teach at and I gave my model back to the math department for them to use with future
+                            students.
                         </div>
                     </div>
+                    <div class="extra content" id="card-extra">
+                        <a href="/projects/predicting-student-success-blog.html" class="ui fluid button"
+                            id="card-button">
+                            See Blog
+                        </a>
+                        <a href="projects/predicting-student-success.pdf" target="_blank" class="ui fluid button"
+                            id="card-button">
+                            Read Paper
+                        </a>
+                    </div>
+                </div>
 
 
-                    <!--Project Card-->
-                    <div class="ui raised card">
-                        <div class="image" id="card">
-                            <img src="images/castle-logo.png">
+                <!--Project Card-->
+                <div class="ui raised card">
+                    <div class="image" id="card">
+                        <img src="images/hangryfix-logo.png">
+                    </div>
+                    <div class="content" id="card-content">
+                        <a class="header">Hangry Fix</a>
+                        <div class="meta">
+                            <span class="date">May 2019</span>
                         </div>
-                        <div class="content" id="card-content">
-                            <a class="header">Accreditation Leader</a>
-                            <div class="meta">
-                                <span class="date">April 2017</span>
-                            </div>
-                            <div class="description">
-                                Accreditation is a 2-3 year process that all schools must go through every 10 years or
-                                so to essentially make sure they
-                                are doing their job as a school. While I was a teacher at Castle High School, I was
-                                chosen to be the technology leader for one of the accreditation teams.
-                            </div>
+                        <div class="meta">
+                            ICS 314: Software Engineering
                         </div>
-                        <div class="extra content" id="card-extra">
-                            <a href="projects/accreditation.html" class="ui fluid button" id="card-button">
-                                See Blog
-                            </a>
+                        <div class="description">
+                            As the final project for Software Engineering, we were tasked to create a Web App that
+                            would benefit our campus. We chose to create an app called hangryFIX that is similar to
+                            Yelp, but is focused on the actual food items, rather than restaurants since that is
+                            generally more important when you are really hungry. I worked on a team of 3 to create a
+                            Meteor web app that utilized React Semantic UI as a tool to write it.
                         </div>
                     </div>
+                    <div class="extra content" id="card-extra">
+                        <a href="/projects/hangry-fix-blog.html" class="ui fluid button" id="card-button">
+                            See Blog
+                        </a>
+                        <a href="https://hangryfix.github.io/" target="_blank" class="ui fluid button" id="card-button">
+                            Go to Project Page
+                        </a>
+                    </div>
+                </div>
 
 
-                    <!--Project Card-->
-                    <div class="ui raised card">
-                        <div class="image" id="card">
-                            <img src="images/trig-cube1.jpg">
+                <!--Project Card-->
+                <div class="ui raised card">
+                    <div class="image" id="card">
+                        <img src="images/castle-logo.png">
+                    </div>
+                    <div class="content" id="card-content">
+                        <a class="header">Accreditation Leader</a>
+                        <div class="meta">
+                            <span class="date">April 2017</span>
                         </div>
-                        <div class="content" id="card-content">
-                            <a class="header">Trig Cube</a>
-                            <div class="meta">
-                                <span class="date">October 2010</span>
-                            </div>
-                            <div class="description">
-                                I did part of my student teaching in a Trigonometry class and was tasked with designing
-                                a project for them. Since I like
-                                puzzles, I thought it would be fun to create a puzzle cube to help them practice their
-                                Trig identities and of course,
-                                logic.
-                            </div>
+                        <div class="description">
+                            Accreditation is a 2-3 year process that all schools must go through every 10 years or
+                            so to essentially make sure they
+                            are doing their job as a school. While I was a teacher at Castle High School, I was
+                            chosen to be the technology leader for one of the accreditation teams.
                         </div>
-                        <div class="extra content" id="card-extra">
-                            <a href="projects/trig-cube.html" class="ui fluid button" id="card-button">
-                                See Blog
-                            </a>
+                    </div>
+                    <div class="extra content" id="card-extra">
+                        <a href="projects/accreditation.html" class="ui fluid button" id="card-button">
+                            See Blog
+                        </a>
+                    </div>
+                </div>
+
+
+                <!--Project Card-->
+                <div class="ui raised card">
+                    <div class="image" id="card">
+                        <img src="images/trig-cube1.jpg">
+                    </div>
+                    <div class="content" id="card-content">
+                        <a class="header">Trig Cube</a>
+                        <div class="meta">
+                            <span class="date">October 2010</span>
                         </div>
+                        <div class="description">
+                            I did part of my student teaching in a Trigonometry class and was tasked with designing
+                            a project for them. Since I like
+                            puzzles, I thought it would be fun to create a puzzle cube to help them practice their
+                            Trig identities and of course,
+                            logic.
+                        </div>
+                    </div>
+                    <div class="extra content" id="card-extra">
+                        <a href="projects/trig-cube.html" class="ui fluid button" id="card-button">
+                            See Blog
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <!--Footer-->
-        <div id="footer-place">
+    <!--Footer-->
+    <div id="footer-place">
 
-        </div>
-        <script>
-            $(function () {
-                $("#footer-place").load("footer.html");
-            });
-        </script>
+    </div>
+    <script>
+        $(function () {
+            $("#footer-place").load("footer.html");
+        });
+    </script>
 
-    </body>
+</body>
 
 </html>
