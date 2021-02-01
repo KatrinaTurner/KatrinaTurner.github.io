@@ -38,20 +38,43 @@
                     <div class="row">
                         <h3 class="ui header">Overview</h3>
                         <div id="essay-text">
-                            
-                            This was my final project for my Machine Learning and Data Science classes. I used grades
-                            and various background info on students to create a model that predicts whether a student
-                            would be successful in Algebra 2. The data came from the high school I used to teach at and
-                            I gave my model back to the math department for them to use with future students.
+
+                            This was my final project for my Machine Learning and Data Science classes.
+                            I chose this project because it addressed a very real problem I had when I was a math
+                            teacher: will this student be successful in Algebra 2? This may seem like a trivial
+                            question, but in Hawai'i public schools, Algebra 2 is the first "elective" math course that
+                            students take. Historically, it also has a pretty high fail rate.
+                            <br>
+                            I would like to point out early on that this is in NO WAY meant to be a replacement for a
+                            teacher's opinion, because it is well established that teachers generally know their
+                            students best and most could easily answer this question for you. However, we live in a
+                            world where everybody wants to see the "data" to back up these opinions.
+                            I used grades and various background data on students to create a model that predicts
+                            whether a student would be successful in Algebra 2.
+                            <br>
+                            Fortunately, I was able to get data from the high school I used to teach at. This was a
+                            great opportunity for me to work with real data and go through the entire pipeline of
+                            cleaning & processing the data to training models on it.
+                            It was not a large enough data set to do any neural networks, but I was
+                            able to train a fairly accurate decision tree. One of the most interesting observations from
+                            the data was that a student's overall GPA had the highest effect on their probability of
+                            success. This may seem like an obvious statement, but in my model overall GPA had a higher
+                            weight than their "Math GPA" or Algebra 1 grade. Thus inferring that its not just whether a
+                            student is "good at math," but whether they are an overall successful student that
+                            determines
+                            their success in Algebra 2.
+
+                            <br>
+                            I gave my model back to the math department for them to use with future students with the
+                            hope that it would be a useful tool for them to "show the math" to back their decisions.
 
                         </div>
                     </div>
                     <div class="row">
                         <h3 class="ui header">Want to know more?</h3>
                         <div id="essay-text">
-                            <a class="ui large button"
-                                    href="predicting-student-success.pdf" target="_blank"
-                                    id="button">Read the Paper</a>
+                            <a class="ui large button" href="predicting-student-success.pdf" target="_blank"
+                                id="button">Read the Paper</a>
                         </div>
                     </div>
                 </div>
