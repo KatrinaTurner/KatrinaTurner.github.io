@@ -1,0 +1,16 @@
+{
+"companyName": "LostandCo.",
+"productName": "Lost and Found In Space",
+"productVersion": "0.1",
+"dataUrl": "GGJ21-lost-and-found-in-space.data.unityweb",
+"wasmCodeUrl": "GGJ21-lost-and-found-in-space.wasm.code.unityweb",
+"wasmFrameworkUrl": "GGJ21-lost-and-found-in-space.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
