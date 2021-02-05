@@ -1,139 +1,158 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <meta charset="UTF-8">
-        <title>Katrina H. Turner</title>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
-        <link rel="stylesheet" href="css\style.css">
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script type="text/javascript"
-            src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
-        <link rel="shortcut icon" type="image/jpg" href="favicon.ico" />
-        <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <title>Katrina H. Turner</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" />
+    <link rel="stylesheet" href="css\style.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <link rel="shortcut icon" type="image/jpg" href="favicon.ico" />
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://kit.fontawesome.com/f5acf242d8.js" crossorigin="anonymous"></script>
 
-    </head>
+</head>
 
-    <body>
-        <!--Menu-->
-        <div id="nav-bar">
+<body>
+    <!--Menu-->
+    <div id="nav-bar">
 
+    </div>
+    <script>
+        $(function () {
+            $("#nav-bar").load("nav.html");
+        });
+    </script>
+
+    <!--Content-->
+    <div class="ui padded container">
+        <div class="ui padded grid">
+            <div class="centered row">
+                <img src="/images/headshot1square2b.jpg" class="ui medium circular image"
+                    style="display: block; margin: auto; width: 40%;">
+                <p class="title">Katrina Hi'ilani Turner</p>
+            </div>
+            <div class="ui centered row" style="text-align: center;">
+                I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences
+                at the University of Hawaii at Mānoa.
+                <br>
+                I expect to graduate in May 2021.
+                <br>
+            </div>
+            <div class="ui centered row">
+                <!-- <h2>Interests:</h2> -->
+                <div class="ui buttons" style="margin-bottom: 20px;">
+                    <div class="ui button" id="button">
+                        <i class="large sitemap icon"></i>
+                        Data Visualization
+                    </div>
+                    <div class="ui button" id="button">
+                        <i class="large chart line icon"></i>
+                        Data Science
+                    </div>
+                    <div class="ui button" id="button">
+                        <i class="large gamepad icon"></i>
+                        Game Design
+                    </div>
+                    <div class="ui button" id="button">
+                        <i class="large computer icon"></i>
+                        Software Engineering
+                    </div>
+                    <div class="ui button" id="button">
+                        <i class="fas fa-vr-cardboard"></i>
+                        Virtual/Augmented Reality
+                    </div>
+                </div>
+            </div>
         </div>
-        <script>
-            $(function () {
-                $("#nav-bar").load("nav.html");
-            });
-        </script>
+    </div>
+    <!--start box-->
+    <div class="ui padded container" id="main-content" style="width: 100%;">
+        <div class="ui padded grid">
+            <!--Background-->
+            <div class="ui row">
+                <div class="ui container" style="padding-top: 1em;">
+                    <h1 class="ui header">Background</h1>
+                    <p>
+                        Born and raised in Kāne'ohe, Hawai'i, I received an Bachelors of Education in Secondary Ed:
+                        Mathematics from the University of Hawai'i at Mānoa and taught high school math around Oahu,
+                        most recently at my Alma Mater, Castle High School.
+                        Teaching was an invaluable experience and provided me with the opportunity to give back to
+                        my
+                        community, but after 7 years I yearned for a career change.
+                        I decided to combine my passions for puzzles, logic & creativity and returned to school to
+                        pursue a Master's degree in Computer Science.
+                        <br>
+                        I am currently employed at the University of Hawaiʻi at Mānoa’s <a id="link"
+                            href="https://www.lavaflow.info/about">Laboratory for Advanced Visualization &
+                            Applications
+                            (LAVA)</a> as a Research Assistant.
+                        My responsibilities include creating new ways to visualize Internet2 Network flow data for
+                        the
+                        <a id="link" href="https://www.netsage.global/">NetSage Project.</a>
+                        <br>
+                        After graduation, I hope to remain in Hawai'i and find a job either locally or remotely where I
+                        can enhance my skills and make an impact in the industry.
+                    </p>
+                </div>
+            </div>
+            <!--News-->
+            <div class="ui row">
 
-        <!--Content-->
-        <div class="ui padded container">
-            <div class="ui padded grid">
-                <div class="centered row">
-                    <img src="/images/headshot1square2b.jpg" class="ui medium circular image"
-                        style="display: block; margin: auto; width: 40%;">
-                    <p class="title">Katrina Hi'ilani Turner</p>
-                </div>
-                <div class="ui centered row" style="text-align: center;">
-                    I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences
-                    at the University of Hawaii at Mānoa.
-                    <br>
-                    I expect to graduate in May 2021.
-                    <br>
-                </div>
-                <div class="ui centered row">
-                    <!-- <h2>Interests:</h2> -->
-                    <div class="ui buttons" style="margin-bottom: 20px;">
-                        <div class="ui button" id="button">
-                            <i class="large sitemap icon"></i>
-                            Data Visualization
+                <div class="ui container" style="padding-top: 1em;">
+                    <h1 class="ui header">News</h1>
+                    <div class="ui padded grid">
+                        <!--News Segment-->
+                        <div class="ui row">
+                            <h3 style="color: white;">Global Game Jam 2021</h3>
+                            <p> (January 2021)</p>
+                            <p>
+                                In January I participated in my first global game jam, which was held ONLINE this year!
+                                Our team met over discord and used used Unity Teams to work together virtually to make
+                                our game. The theme this year was <i>Lost and Found</i> and the game we made was titled
+                                <i>Lost and Found... in Space! </i> Our team was made up of two coders, an artist and an
+                                artist/coder.  I had a really great time and we managed to put out a playable game!  See the 
+                                <a href="/projects/ggj-2021-blog.html" id="link">project page</a> for more information!
+                            </p>
                         </div>
-                        <div class="ui button" id="button">
-                            <i class="large chart line icon"></i>
-                            Data Science
+                        <!--News Segment-->
+                        <div class="ui row">
+                            <h3 style="color: white;">Published!</h3>
+                            <p> (November 2020)</p>
+                            <p>
+                                A paper I authored for NetSage was published in the INDIS workshop at Super
+                                Computing 2020! I
+                                participated in the workshop as a presenter. This was my first publication
+                                and first time presenting at a conference. It was unfortunately only online due to
+                                COVID, but still a great experience! The paper is published by IEEE in 2020 IEEE/ACM
+                                Innovating the Network for Data-Intensive Science (INDIS). See more about
+                                the paper <a href="/papers.html" id="link">here.</a>
+                            </p>
                         </div>
-                        <div class="ui button" id="button">
-                            <i class="large gamepad icon"></i>
-                            Game Design
-                        </div>
-                        <div class="ui button" id="button">
-                            <i class="large computer icon"></i>
-                            Software Engineering
+                        <div class="row">
+                            <h2 class="ui header"></h2>
+                            <p>
+
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!--start box-->
-        <div class="ui padded container" id="main-content" style="width: 100%;">
-            <div class="ui padded grid">
-                <!--Background-->
-                <div class="ui row">
-                    <div class="ui container" style="padding-top: 1em;">
-                        <h1 class="ui header">Background</h1>
-                        <p>
-                            Born and raised in Kāne'ohe, Hawai'i, I received an Bachelors of Education in Secondary Ed:
-                            Mathematics from the University of Hawai'i at Mānoa and taught high school math around Oahu,
-                            most recently at my Alma Mater, Castle High School.
-                            Teaching was an invaluable experience and provided me with the opportunity to give back to
-                            my
-                            community, but after 7 years I yearned for a career change.
-                            I decided to combine my passions for puzzles, logic & creativity and returned to school to
-                            pursue a Master's degree in Computer Science.
-                            <br>
-                            I am currently employed at the University of Hawaiʻi at Mānoa’s <a id="link"
-                                href="https://www.lavaflow.info/about">Laboratory for Advanced Visualization &
-                                Applications
-                                (LAVA)</a> as a Research Assistant.
-                            My responsibilities include creating new ways to visualize Internet2 Network flow data for
-                            the
-                            <a id="link" href="https://www.netsage.global/">NetSage Project.</a>
-                            <br>
-                            After graduation, I hope to remain in Hawai'i and find a job where I can pursue my interests
-                            of Data Science and Data Visualization.
-                        </p>
-                    </div>
-                </div>
-                <!--News-->
-                <div class="ui row">
+    </div>
 
-                    <div class="ui container" style="padding-top: 1em;">
-                        <h1 class="ui header">News</h1>
-                        <div class="ui padded grid">
-                            <div class="ui row">
-                                <h3 style="color: white;">Published!</h3>
-                                <p> (November 2020)</p>
-                                <p>
-                                    A paper I authored for NetSage was published in the INDIS workshop at Super
-                                    Computing 2020! I
-                                    participated in the workshop as a presenter. This was my first publication
-                                    and first time presenting at a conference. It was unfortunately only online due to
-                                    COVID, but still a great experience! The paper is published by IEEE in 2020 IEEE/ACM
-                                    Innovating the Network for Data-Intensive Science (INDIS). See more about
-                                    the paper <a href="/papers.html" id="link">here.</a>
-                                </p>
-                            </div>
-                            <div class="row">
-                                <h2 class="ui header"></h2>
-                                <p>
+    <!--Footer-->
+    <div id="footer-place">
 
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    </div>
+    <script>
+        $(function () {
+            $("#footer-place").load("footer.html");
+        });
+    </script>
 
-        <!--Footer-->
-        <div id="footer-place">
-
-        </div>
-        <script>
-            $(function () {
-                $("#footer-place").load("footer.html");
-            });
-        </script>
-
-    </body>
+</body>
 
 </html>
