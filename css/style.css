@@ -157,7 +157,7 @@ body #resume-side-text {
 
 body #resume-subtitle {
     font-size: large;
-    font-weight: 500;
+    font-weight: 600;
     text-align: center;
     padding: 10px 0;
 }
@@ -166,6 +166,7 @@ body #resume-title {
     font-size: xxx-large;
     font-weight: 800;
     text-align: center;
+    letter-spacing: 3px;
     text-shadow: -1px 1px 2px  var(--light1),
 		1px 1px 2px   var(--light1),
 		1px -1px 0   var(--light1),
