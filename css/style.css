@@ -74,6 +74,10 @@ body #icon {
     color: white;
 }
 
+body #home-page-content {
+    line-height: 1.5em;
+}
+
 body #light1 {
     color: var(--light1);
 }
