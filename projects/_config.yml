@@ -9,4 +9,8 @@ url: "https://KatrinaTurner.github.io"
 baseurl: ""
 
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
-theme: jekyll-theme-cayman
+rouge-theme: igorpro
+
+# YOU NORMALLY NEVER CHANGE THE FOLLOWING
+markdown: kramdown
+include: [_data]
