@@ -61,6 +61,7 @@ body #center {
 body #essay-text {
     text-align: justify;
     width: 100%;
+    line-height: 1.5em;
 }
 
 body #footer {
