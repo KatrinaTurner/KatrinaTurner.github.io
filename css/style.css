@@ -78,6 +78,10 @@ body #icon {
 body #home-page-content {
     line-height: 1.5em;
 }
+body #home-page-meta {
+    width: 100%;
+    margin: -0.5em 0 1em 0;
+}
 
 body #light1 {
     color: var(--light1);

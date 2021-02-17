@@ -37,7 +37,7 @@
                     <div class="row">
                         <h3 class="ui header">Overview</h3>
                         <div id="essay-text">
-                            <img class="ui medium rounded left floated image" src="../images/inprogress.png"
+                            <img class="ui small rounded left floated image" src="../images/inprogress.png"
                                 style="margin-right: 20px; background-color: grey;">
                             The general concept of the game is that you are a being made of light in a world of darkness
                             so you can only see the area immediately around you.
@@ -46,7 +46,102 @@
                             an attempt to defeat you.
                             To balance his increasing attacks, you become faster and your light gets stronger, allowing
                             you to see a little more area around you every time you deal him damage.
+                        </div>
+                    </div>
+                    <div class="row">
+                        <h3 class="ui header">Game Play</h3>
+                        <div id="essay-text">
+                            <div class="ui large rounded right floated image">
+                                <video width="100%" height="auto" autoplay loop controls muted>
+                                    <source src="../images/LG-playthru.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                            The game play is pretty straightforward. Use the arrow keys or WASD to move around the room
+                            and find energy crystals.
+                            The space bar will increase the radius of your light temporarily, but it also freezes your
+                            movement and costs one energy.
+                            The tally on the bottom left keeps track of your energy. Once you have at least 10 energy,
+                            pressing the space bar will illuminate the entire room and deal damage to the boss.
+                            This causes you to move to the next level which increases the difficulty of the boss, but
+                            also increases your speed and light radius.
+                            Once you beat all five levels, you win the game! But beware, the number of bullets and bombs
+                            increases as the game goes on.
+                            <h3 class="ui header">Development</h3>
+                            The base requirements for this game were to create:
+                            <ul>
+                                <li>a <b>player</b> that moves</li>
+                                <li><b>obstacles</b> that move toward the player</li>
+                                <li><b>objects</b> for the player to collect</li>
+                            </ul>
+                            In addition, we were challenged to use both the traditional C# Unity scripts as well as
+                            Unity's new visual scripting tool, Bolt.
+                        </div>
+                    </div>
 
+                    <div class="row" style="padding-left: 2em;">
+                        <div id="essay-text">
+                            <h4 class="ui header">The Player</h4>
+                            You play as a being made of light. He is a 2D Sprite moving in a 3D world.
+                            He also has a spotlight that follows him and can increase in size and intensity at certain
+                            parts of the game.
+                            All of his actions are controlled by a C# script.
+                            <h4 class="ui header">The Obstacles</h4>
+                            There are three types of obstacles in this game.
+                            <br>
+                            The first type are static. They are simple pillars randomly placed at the start of each
+                            game.
+                            Their purpose is to create an obstacle for the player to have to move around, but they can
+                            also provide shelter from bombs and bullets.
+                            The pillars are instantiated as part of the starting script, but their audio is controlled
+                            with a Bolt Flow Machine.
+                            <br>
+                            The second type of obstacle are the bullets. These are the most plentiful throughout the
+                            game. They spawn from the pulsing bullet spawners and have two modes.
+                            The first mode moves them toward a static target outside the play area. Each bullet moves
+                            towards a different target, which is what creates the spiral pattern.
+                            The second mode is almost the same, but the bullets move toward a <i>moving</i> target
+                            placed outside the play area. There are four targets total that move ten degrees after each
+                            spawn.
+                            The bullets are destroyed upon colliding with the pillars or a wall. If they hit the player,
+                            it is game over.
+                            The frequency and speed of the bullets as well as the number of bullet spawners increases as
+                            the game goes on.
+                            By the end, there are four bullet spawners producing an almost non-stop slew of bullets. Its
+                            a lot to deal with.
+                            <br>
+                            The final type of obstacle is the bomb. It is not introduced until the third level and at
+                            first, it just shoots in the general direction of the player, but in the last two levels it
+                            chases the player.
+                            <br>
+                            The bullets and bombs are all controlled with C# scripts.
+                            <h4 class="ui header">The Objects</h4>
+                            The objects to collect are energy crystals. Each crystal gives you 1 energy point, which you
+                            need to attack the boss or increase your light.
+                            These game objects are controlled with a Bolt Flow Machine.
+                            <br>
+                            <div class="ui large rounded left floated image" style="padding-top: 10px;">
+                                <video width="100%" height="auto" autoplay loop muted>
+                                    <source src="../images/LG-bolt-vid.mp4" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                            </div>
+                            <h4 class="ui header">The Boss</h4>
+                            This was not a requirement of the class, but I added him to give a motivation and objective
+                            to the game. He is also completely controlled by a Bolt Flow Machine.
+                            This was by far the largest Flow Graph I created in the entire game and it controls all
+                            aspects of the boss from animations, to levels, to triggering bullet and bomb events.
+                            It also gave me the opportunity to learn how Bolt Flow Machines interact with Unity scripts
+                            and vice versa.
+
+                            <h4 class="ui header">The Artwork</h4>
+                            As a computer science student, we were allowed to get our art assets from external sources,
+                            such as the asset store.
+                            Fortunately, I have my own personal asset creator named <a
+                                href="https://rosstturner.github.io/" id="link" target="_blank">Ross T. Turner</a> who
+                            did all the pixel art for this game. Thank you Ross!
+                            I still did the animations, but he created all the sprite sheets for my characters and
+                            objects.
                         </div>
                     </div>
 
@@ -54,6 +149,20 @@
                         <h3 class="ui header">More to come...</h3>
                         <div id="essay-text">
                             This game is still in development. Check back later for more updates!
+                        </div>
+                        <h3 class="ui header">Want to play the current version?</h3>
+                        <div id="essay-text">
+                            You can download the executable by clicking the button below.  (It is currently only built for Windows)
+                            Once you have downloaded the .zip, unpack it and open the "theLightGame.exe"
+                            Good Luck! Feel free to email me comments, suggestions, or a screenshot of your win screen to be featured here on my site!
+                            <a class="ui large button" href="../projects/theLightGamev1.3.zip" download id="button"><i class="download icon"></i> Download v1.3</a>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <h3 class="ui header">Best Times</h3>
+                        <div id="essay-text">
+                            Send me a screenshot of your win screen & your preferred name to be featured here!
                         </div>
                     </div>
                 </div>
